@@ -17,9 +17,11 @@
 		"winston": "1.0.1"
 	},
 	"dependencies": {
+		"jasmine-data-provider": "^2.2.0",
 		"nodemailer": "^0.7.0",
 		"path": "^0.12.7",
 		"promise": "^7.0.4",
-		"protractor-html-screenshot-reporter": "0.0.21"
+		"protractor-html-screenshot-reporter": "0.0.21",
+		"xlsx": "^0.13.0"
 	}
 }
