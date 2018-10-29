@@ -5,5 +5,5 @@ Protractor End to End testing framework for AngularJS Apps
 
 npm install -g protractor <br>
 webdriver-manager update <br>
-npm -version
+npm -version <br>
 webdriver-manager start
