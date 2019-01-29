@@ -1,0 +1,16 @@
+npm --version
+npm install -g protractor
+protractor --version
+webdriver-manager update
+webdriver-manager start
+http://localhost:4444/wd/hub/static/resource/hub.html
+
+---------------------------
+protractor conf.js
+
+
+-----------------------
+C:\Program Files\nodejs\node_modules\npm\bin    in path settings
+
+
+

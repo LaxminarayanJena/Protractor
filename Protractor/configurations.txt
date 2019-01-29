@@ -1,0 +1,5 @@
+
+
+D:\Webstorm\ProtractorModules\ProtractorTest\E2ETesting\Banking
+~\AppData\Roaming\npm\node_modules\protractor\built\cli.js
+D:\Webstorm\ProtractorModules\ProtractorTest\E2ETesting\Banking\conf.js
