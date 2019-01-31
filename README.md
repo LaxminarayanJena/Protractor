@@ -17,3 +17,8 @@ protractor conf.js <br>
 
 -----------------------
 C:\Program Files\nodejs\node_modules\npm\bin    in path settings
+
+npm i npm@latest -g </br>
+
+Download all the packages where package.json file is there </br>
+npm install
