@@ -46,7 +46,7 @@ console.log("------printing value attribute from dropdown list-------------");
 		});
         
         expect(element(by.binding("user")).getText()).toEqual("Harry Potter");
-        
+        //binding we get from html source {{user}}
 		});
 		
 		});
