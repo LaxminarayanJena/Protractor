@@ -33,6 +33,7 @@ element(by.repeater("result in memory").row(0)).getText().then(function(text)
     it("Printing first column data",function () {
 
         element.all(by.repeater("result in memory").column("result.timestamp | date:'mediumTime")).getText().then(function(text)
+        //element.all will take it in an  array
         {
             console.log("printing first col data");
             console.log(text);

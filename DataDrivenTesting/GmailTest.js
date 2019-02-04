@@ -32,7 +32,7 @@ describe("Test Gmail",function(){
 
             element(by.xpath(Objects.locators.loginpage.username)).sendKeys(data.username);
             console.log(data.password);
-            element(by.id(Objects.locators.loginpage.next)).click();
+            element(by.xpath(Objects.locators.loginpage.next)).click();
 
         });
 

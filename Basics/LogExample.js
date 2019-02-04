@@ -1,5 +1,6 @@
 
-var logger=require('D:\\Webstorm\\ProtractorModules\\ProtractorTest\\log.js');
+var logger=require('D:\\Projects\\Protractor\\log.js');
+//winston-basic.log will be generated
 describe("Validating the calculator app",function () {
 
     var title;

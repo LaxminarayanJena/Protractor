@@ -26,22 +26,22 @@ expected_text.then(function(text)
     })
 
 
-    it("validate  1+1!=2",function () {
+    it("validate  1+1!=3",function () {
 
         expected_text.then(function(text)
         {
             console.log("Result is :" +text);
-            expect(parseInt(text)).toBe(2);
+            expect(parseInt(text)).not.toBe(3);
         });
 
     })
     
-    it("validate  1+1=2",function () {
+    it("validate  1+1=4",function () {
 
         expected_text.then(function(text)
         {
             console.log("Result is :" +text);
-            expect(parseInt(text)).toBe(2);
+            expect(parseInt(text)).toBe(4);
         });
 
     })

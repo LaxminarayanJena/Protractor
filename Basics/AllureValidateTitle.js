@@ -1,10 +1,18 @@
 describe("Validate the title from home page",function()
 {
-//D:\Webstorm\ProtractorModules\ProtractorTest\Basics\allure-results
-    //to
-   // D:\Webstorm\ProtractorModules\ProtractorTest\node_modules\jasmine-allure-reporter\allure-results
-    //https://stackoverflow.com/questions/42621567/generate-simple-html-based-on-jasmine-allure-reporter
-    //mvn site -Dallure.results_pattern=allure-results
+/*
+1)Write allure function in conf.js
+2)go to project folder and type
+npm i jasmine-allure-reporter
+
+3)after running it will generate allure-results folder
+
+4)copy the allure-results folder inside node_modules/jasmine-allure-reporter
+
+5)In cmd mvn site -Dallure.results_pattern=allure-results
+6) reports genearted in \node_modules\jasmine-allure-reporter\target\site\allure-maven-plugin\index.html
+
+ */
     beforeEach(function()
     {
         browser.get("http://www.way2automation.com/angularjs-protractor/calc/");

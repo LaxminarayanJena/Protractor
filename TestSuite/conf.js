@@ -30,8 +30,8 @@ exports.config = {
 //in cmd-  protractor conf.js --suites=smoke
 	//protractor conf.js --suites=smoke,regression
     //protractor conf.js --suites=selected
-
-
+    //in webstorm configuration application parameters-D:\Webstorm\ProtractorModules\ProtractorTest\TestSuite\conf.js --suites=smoke
+	//to skip a testcase  write xit instead of it
 	// Options to be passed to Jasmine.
 	jasmineNodeOpts: {
 		defaultTimeoutInterval: 30000

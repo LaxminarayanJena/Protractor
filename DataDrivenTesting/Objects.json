@@ -7,14 +7,10 @@
     "loginpage":{
 
 
-
       "username":".//*[@id='identifierId']",
-      "next":"identifierNext"
-
+      "next":"//*[text()='Next']"
 
     }
-
-
 
   },
 
