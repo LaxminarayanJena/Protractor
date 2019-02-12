@@ -1,3 +1,5 @@
+//node ExcelTest.js
+
 var XLSX = require('xlsx');
 
 var workbook = XLSX.readFile('test.xlsx');
@@ -16,7 +18,8 @@ var desired_cell = worksheet[address_of_cell];
 /* Get the value */
 var desired_value = desired_cell.v;
 
-//console.log(desired_value);
+console.log(desired_value);
+
 
 var sheet_name_list = workbook.SheetNames;
 sheet_name_list.forEach(function(y) { /* iterate through sheets */
@@ -26,4 +29,7 @@ sheet_name_list.forEach(function(y) { /* iterate through sheets */
         if(z[0] === '!') continue;
         console.log(y + "!" + z + "=" + JSON.stringify(worksheet[z].v));
     }
+
+
 });
+

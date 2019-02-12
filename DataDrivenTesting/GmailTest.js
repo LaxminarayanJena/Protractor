@@ -31,7 +31,7 @@ describe("Test Gmail",function(){
         it("Validate user credentials",function(){
 
             element(by.xpath(Objects.locators.loginpage.username)).sendKeys(data.username);
-            console.log(data.password);
+            console.log(data.username + "-"+ data.password);
             element(by.xpath(Objects.locators.loginpage.next)).click();
 
         });

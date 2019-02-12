@@ -2,202 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a695c9ab-d88b-49f9-81e6-a59390c3a6f6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/allure-results/054bca96-1f05-400d-b1ae-dd392418ae83-attachment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/allure-results/1297ef71-cffc-447d-b9d9-d8405cd193bf-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/allure-results/14c7ae40-4039-47e0-a112-e9182671a916-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/allure-results/1f15e277-65f7-42c8-81a3-7398c295709f-attachment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/allure-results/98710622-f947-4ea4-ae8f-e1710fb94712-attachment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/allure-results/ad5d3e91-0a29-4a42-b375-f66678aaacff-attachment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/allure-results/bf5b0f32-e5a8-4133-9073-e6f4cf9b6984-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/allure-results/c07a4c4b-0de8-4031-80a6-d31639bc1444-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/allure-results/c0dc23f3-33ab-4b6d-9fcf-8e1bf8879b41-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/allure-results/c1d7a20b-f0c3-4cc7-ba71-cd18c218c7a4-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/allure-results/d905d909-75f9-4e4a-b8b2-53b688cfed1f-attachment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/allure-results/da4b7e23-4a96-466f-97c0-788b64cfaf6c-attachment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/allure-results/ff2b12fe-918b-47b6-9265-cb1d1de4131f-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/lib/services/simpledb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/test/model/operation.spec.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jsonfile/node_modules/graceful-fs/fs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/load-json-file/node_modules/graceful-fs/fs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-type/node_modules/graceful-fs/fs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/validate-npm-package-license/test.log" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataDrivenTesting/ReadingThroughJson.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basics/AllureValidateTitle.js" afterPath="$PROJECT_DIR$/Basics/AllureValidateTitle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basics/LogExample.js" afterPath="$PROJECT_DIR$/Basics/LogExample.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basics/TextExpect.js" afterPath="$PROJECT_DIR$/Basics/TextExpect.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basics/conf.js" afterPath="$PROJECT_DIR$/Basics/conf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basics/winston-basic.log" afterPath="$PROJECT_DIR$/Basics/winston-basic.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataDrivenTesting/ExcelTest.js" afterPath="$PROJECT_DIR$/DataDrivenTesting/ExcelTest.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataDrivenTesting/GmailTest.js" afterPath="$PROJECT_DIR$/DataDrivenTesting/GmailTest.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataDrivenTesting/Objects.json" afterPath="$PROJECT_DIR$/DataDrivenTesting/Objects.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataDrivenTesting/conf.js" afterPath="$PROJECT_DIR$/DataDrivenTesting/conf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Locator/ByRepeater.js" afterPath="$PROJECT_DIR$/Locator/ByRepeater.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestSuite/conf.js" afterPath="$PROJECT_DIR$/TestSuite/conf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/allure-js-commons/node_modules/lodash/package.json" afterPath="$PROJECT_DIR$/node_modules/allure-js-commons/node_modules/lodash/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/allure-js-commons/package.json" afterPath="$PROJECT_DIR$/node_modules/allure-js-commons/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/array-find-index/package.json" afterPath="$PROJECT_DIR$/node_modules/array-find-index/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/.npmignore" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/.yardopts_guide" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/.yardopts_guide" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/Gemfile.lock" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/README.md" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/UPGRADING.md" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/UPGRADING.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/bower.json" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/dist-tools/strategies/default.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/dist-tools/strategies/default.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/dist-tools/test/browser-builder.mocha.spec.coffee" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/dist-tools/test/browser-builder.mocha.spec.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/dist/aws-sdk.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/dist/aws-sdk.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/dist/aws-sdk.min.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/dist/aws-sdk.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/doc-src/guide/browser-examples.md" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/doc-src/guide/browser-examples.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/doc-src/guide/browser-intro.md" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/doc-src/guide/browser-intro.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/doc-src/guide/browser-services.md" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/doc-src/guide/browser-services.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/doc-src/guide/node-services.md" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/doc-src/guide/node-services.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/doc-src/templates/api-versions/model_documentor.rb" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/doc-src/templates/api-versions/model_documentor.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/doc-src/templates/api-versions/plugin.rb" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/doc-src/templates/api-versions/plugin.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/features/rds/rds.feature" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/features/rds/rds.feature" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/features/rds/step_definitions/rds.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/features/rds/step_definitions/rds.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/lib/core.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/lib/core.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/lib/credentials/shared_ini_file_credentials.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/lib/credentials/shared_ini_file_credentials.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/lib/event_listeners.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/lib/event_listeners.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/lib/http/node.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/lib/http/node.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/lib/model/resource_waiter.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/lib/model/resource_waiter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/lib/model/shape.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/lib/model/shape.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/lib/protocol/rest_xml.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/lib/protocol/rest_xml.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/lib/request.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/lib/request.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/lib/sequential_executor.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/lib/sequential_executor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/lib/service.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/lib/service.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/lib/services.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/lib/services.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/lib/services/elastictranscoder.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/lib/services/elastictranscoder.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/lib/services/route53.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/lib/services/route53.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/lib/services/s3.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/lib/services/s3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/lib/signers/v4.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/lib/signers/v4.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/lib/util.js" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/lib/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/package.json" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/scripts/console" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/scripts/console" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/test/event_listeners.spec.coffee" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/test/event_listeners.spec.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/test/helpers.coffee" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/test/helpers.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/test/node_http_client.spec.coffee" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/test/node_http_client.spec.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/test/protocol/rest_xml.spec.coffee" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/test/protocol/rest_xml.spec.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/test/request.spec.coffee" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/test/request.spec.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/test/sequential_executor.spec.coffee" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/test/sequential_executor.spec.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/test/service.spec.coffee" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/test/service.spec.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/test/services/dynamodb.spec.coffee" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/test/services/dynamodb.spec.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/test/services/elastictranscoder.spec.coffee" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/test/services/elastictranscoder.spec.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/test/services/s3.spec.coffee" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/test/services/s3.spec.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/test/services/simpledb.spec.coffee" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/test/services/simpledb.spec.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/test/services/sqs.spec.coffee" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/test/services/sqs.spec.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/test/services/sts.spec.coffee" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/test/services/sts.spec.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/aws-sdk/test/signers/v4.spec.coffee" afterPath="$PROJECT_DIR$/node_modules/aws-sdk/test/signers/v4.spec.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/builtin-modules/package.json" afterPath="$PROJECT_DIR$/node_modules/builtin-modules/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/camelcase-keys/package.json" afterPath="$PROJECT_DIR$/node_modules/camelcase-keys/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/camelcase/package.json" afterPath="$PROJECT_DIR$/node_modules/camelcase/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cfb/cfb.js" afterPath="$PROJECT_DIR$/node_modules/cfb/cfb.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cfb/dist/cfb.js" afterPath="$PROJECT_DIR$/node_modules/cfb/dist/cfb.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cfb/dist/cfb.min.js" afterPath="$PROJECT_DIR$/node_modules/cfb/dist/cfb.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cfb/dist/cfb.min.map" afterPath="$PROJECT_DIR$/node_modules/cfb/dist/cfb.min.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cfb/dist/xlscfb.js" afterPath="$PROJECT_DIR$/node_modules/cfb/dist/xlscfb.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cfb/package.json" afterPath="$PROJECT_DIR$/node_modules/cfb/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cfb/xlscfb.flow.js" afterPath="$PROJECT_DIR$/node_modules/cfb/xlscfb.flow.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/codepage/cptable.js" afterPath="$PROJECT_DIR$/node_modules/codepage/cptable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/codepage/cputils.js" afterPath="$PROJECT_DIR$/node_modules/codepage/cputils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/codepage/dist/cpexcel.full.js" afterPath="$PROJECT_DIR$/node_modules/codepage/dist/cpexcel.full.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/codepage/dist/sbcs.full.js" afterPath="$PROJECT_DIR$/node_modules/codepage/dist/sbcs.full.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/codepage/package.json" afterPath="$PROJECT_DIR$/node_modules/codepage/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/currently-unhandled/package.json" afterPath="$PROJECT_DIR$/node_modules/currently-unhandled/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/decamelize/package.json" afterPath="$PROJECT_DIR$/node_modules/decamelize/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/error-ex/index.js" afterPath="$PROJECT_DIR$/node_modules/error-ex/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/error-ex/package.json" afterPath="$PROJECT_DIR$/node_modules/error-ex/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/file-type/package.json" afterPath="$PROJECT_DIR$/node_modules/file-type/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/find-up/package.json" afterPath="$PROJECT_DIR$/node_modules/find-up/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fs-extra/package.json" afterPath="$PROJECT_DIR$/node_modules/fs-extra/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/get-stdin/package.json" afterPath="$PROJECT_DIR$/node_modules/get-stdin/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hosted-git-info/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/hosted-git-info/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hosted-git-info/git-host-info.js" afterPath="$PROJECT_DIR$/node_modules/hosted-git-info/git-host-info.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hosted-git-info/git-host.js" afterPath="$PROJECT_DIR$/node_modules/hosted-git-info/git-host.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hosted-git-info/index.js" afterPath="$PROJECT_DIR$/node_modules/hosted-git-info/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hosted-git-info/package.json" afterPath="$PROJECT_DIR$/node_modules/hosted-git-info/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/Changelog.md" afterPath="$PROJECT_DIR$/node_modules/iconv-lite/Changelog.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/sbcs-codec.js" afterPath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/sbcs-codec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/sbcs-data.js" afterPath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/sbcs-data.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/iconv-lite/package.json" afterPath="$PROJECT_DIR$/node_modules/iconv-lite/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/indent-string/package.json" afterPath="$PROJECT_DIR$/node_modules/indent-string/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/is-arrayish/package.json" afterPath="$PROJECT_DIR$/node_modules/is-arrayish/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/is-builtin-module/package.json" afterPath="$PROJECT_DIR$/node_modules/is-builtin-module/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/is-finite/package.json" afterPath="$PROJECT_DIR$/node_modules/is-finite/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/is-utf8/package.json" afterPath="$PROJECT_DIR$/node_modules/is-utf8/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jasmine-allure-reporter/package.json" afterPath="$PROJECT_DIR$/node_modules/jasmine-allure-reporter/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/js2xmlparser/package.json" afterPath="$PROJECT_DIR$/node_modules/js2xmlparser/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jsonfile/node_modules/graceful-fs/graceful-fs.js" afterPath="$PROJECT_DIR$/node_modules/jsonfile/node_modules/graceful-fs/graceful-fs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jsonfile/node_modules/graceful-fs/package.json" afterPath="$PROJECT_DIR$/node_modules/jsonfile/node_modules/graceful-fs/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jsonfile/node_modules/graceful-fs/polyfills.js" afterPath="$PROJECT_DIR$/node_modules/jsonfile/node_modules/graceful-fs/polyfills.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jsonfile/package.json" afterPath="$PROJECT_DIR$/node_modules/jsonfile/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/load-json-file/node_modules/graceful-fs/graceful-fs.js" afterPath="$PROJECT_DIR$/node_modules/load-json-file/node_modules/graceful-fs/graceful-fs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/load-json-file/node_modules/graceful-fs/package.json" afterPath="$PROJECT_DIR$/node_modules/load-json-file/node_modules/graceful-fs/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/load-json-file/node_modules/graceful-fs/polyfills.js" afterPath="$PROJECT_DIR$/node_modules/load-json-file/node_modules/graceful-fs/polyfills.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/load-json-file/package.json" afterPath="$PROJECT_DIR$/node_modules/load-json-file/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/loud-rejection/package.json" afterPath="$PROJECT_DIR$/node_modules/loud-rejection/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/map-obj/package.json" afterPath="$PROJECT_DIR$/node_modules/map-obj/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/meow/node_modules/minimist/package.json" afterPath="$PROJECT_DIR$/node_modules/meow/node_modules/minimist/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/meow/package.json" afterPath="$PROJECT_DIR$/node_modules/meow/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mime/package.json" afterPath="$PROJECT_DIR$/node_modules/mime/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nodemailer/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/nodemailer/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nodemailer/lib/nodemailer.js" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/nodemailer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nodemailer/lib/wellknown.js" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/wellknown.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nodemailer/package.json" afterPath="$PROJECT_DIR$/node_modules/nodemailer/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/normalize-package-data/README.md" afterPath="$PROJECT_DIR$/node_modules/normalize-package-data/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/normalize-package-data/lib/fixer.js" afterPath="$PROJECT_DIR$/node_modules/normalize-package-data/lib/fixer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/normalize-package-data/package.json" afterPath="$PROJECT_DIR$/node_modules/normalize-package-data/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/number-is-nan/package.json" afterPath="$PROJECT_DIR$/node_modules/number-is-nan/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/object-assign/package.json" afterPath="$PROJECT_DIR$/node_modules/object-assign/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/parse-json/package.json" afterPath="$PROJECT_DIR$/node_modules/parse-json/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/path-exists/package.json" afterPath="$PROJECT_DIR$/node_modules/path-exists/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/path-type/node_modules/graceful-fs/graceful-fs.js" afterPath="$PROJECT_DIR$/node_modules/path-type/node_modules/graceful-fs/graceful-fs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/path-type/node_modules/graceful-fs/package.json" afterPath="$PROJECT_DIR$/node_modules/path-type/node_modules/graceful-fs/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/path-type/node_modules/graceful-fs/polyfills.js" afterPath="$PROJECT_DIR$/node_modules/path-type/node_modules/graceful-fs/polyfills.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/path-type/package.json" afterPath="$PROJECT_DIR$/node_modules/path-type/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pify/package.json" afterPath="$PROJECT_DIR$/node_modules/pify/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pinkie-promise/package.json" afterPath="$PROJECT_DIR$/node_modules/pinkie-promise/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pinkie/package.json" afterPath="$PROJECT_DIR$/node_modules/pinkie/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/package.json" afterPath="$PROJECT_DIR$/node_modules/read-pkg-up/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/read-pkg/package.json" afterPath="$PROJECT_DIR$/node_modules/read-pkg/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/redent/package.json" afterPath="$PROJECT_DIR$/node_modules/redent/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/repeating/package.json" afterPath="$PROJECT_DIR$/node_modules/repeating/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/semver/README.md" afterPath="$PROJECT_DIR$/node_modules/semver/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/semver/bin/semver" afterPath="$PROJECT_DIR$/node_modules/semver/bin/semver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/semver/package.json" afterPath="$PROJECT_DIR$/node_modules/semver/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/semver/semver.js" afterPath="$PROJECT_DIR$/node_modules/semver/semver.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/signal-exit/package.json" afterPath="$PROJECT_DIR$/node_modules/signal-exit/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/spdx-correct/README.md" afterPath="$PROJECT_DIR$/node_modules/spdx-correct/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/spdx-correct/index.js" afterPath="$PROJECT_DIR$/node_modules/spdx-correct/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/spdx-correct/package.json" afterPath="$PROJECT_DIR$/node_modules/spdx-correct/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/spdx-exceptions/index.json" afterPath="$PROJECT_DIR$/node_modules/spdx-exceptions/index.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/spdx-exceptions/package.json" afterPath="$PROJECT_DIR$/node_modules/spdx-exceptions/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/spdx-expression-parse/package.json" afterPath="$PROJECT_DIR$/node_modules/spdx-expression-parse/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/spdx-license-ids/README.md" afterPath="$PROJECT_DIR$/node_modules/spdx-license-ids/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/spdx-license-ids/deprecated.json" afterPath="$PROJECT_DIR$/node_modules/spdx-license-ids/deprecated.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/spdx-license-ids/index.json" afterPath="$PROJECT_DIR$/node_modules/spdx-license-ids/index.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/spdx-license-ids/package.json" afterPath="$PROJECT_DIR$/node_modules/spdx-license-ids/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/strip-bom/package.json" afterPath="$PROJECT_DIR$/node_modules/strip-bom/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/strip-indent/package.json" afterPath="$PROJECT_DIR$/node_modules/strip-indent/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/trim-newlines/package.json" afterPath="$PROJECT_DIR$/node_modules/trim-newlines/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/validate-npm-package-license/index.js" afterPath="$PROJECT_DIR$/node_modules/validate-npm-package-license/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/validate-npm-package-license/package.json" afterPath="$PROJECT_DIR$/node_modules/validate-npm-package-license/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/xlsx/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/xlsx/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/xlsx/README.md" afterPath="$PROJECT_DIR$/node_modules/xlsx/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/cpexcel.js" afterPath="$PROJECT_DIR$/node_modules/xlsx/dist/cpexcel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/jszip.js" afterPath="$PROJECT_DIR$/node_modules/xlsx/dist/jszip.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.core.min.js" afterPath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.core.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.core.min.map" afterPath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.core.min.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.extendscript.js" afterPath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.extendscript.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.full.min.js" afterPath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.full.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.full.min.map" afterPath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.full.min.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.js" afterPath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.min.js" afterPath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.min.map" afterPath="$PROJECT_DIR$/node_modules/xlsx/dist/xlsx.min.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/xlsx/jszip.js" afterPath="$PROJECT_DIR$/node_modules/xlsx/jszip.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/xlsx/package.json" afterPath="$PROJECT_DIR$/node_modules/xlsx/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/xlsx/types/index.d.ts" afterPath="$PROJECT_DIR$/node_modules/xlsx/types/index.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/xlsx/xlsx.js" afterPath="$PROJECT_DIR$/node_modules/xlsx/xlsx.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -215,27 +24,27 @@
         <entry file="file://$PROJECT_DIR$/DataDrivenTesting/conf.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+              <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Objects.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataDrivenTesting/Objects.json">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            <state relative-caret-position="204">
+              <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GmailTest.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataDrivenTesting/GmailTest.js">
+      <file leaf-file-name="ExcelTest.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataDrivenTesting/ExcelTest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+            <state relative-caret-position="121">
+              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -272,7 +81,6 @@
         <option value="$PROJECT_DIR$/Mail/mail.js" />
         <option value="$PROJECT_DIR$/DataDrivenTesting/package.json" />
         <option value="$PROJECT_DIR$/DataDrivenTesting/GamilTest.js" />
-        <option value="$PROJECT_DIR$/DataDrivenTesting/ExcelTest.js" />
         <option value="$PROJECT_DIR$/Banking/CustomerLogin.js" />
         <option value="$PROJECT_DIR$/Banking/conf.js" />
         <option value="$PROJECT_DIR$/Banking/BankMangerLogin.js" />
@@ -293,9 +101,11 @@
         <option value="$PROJECT_DIR$/Basics/conf.js" />
         <option value="$PROJECT_DIR$/Basics/AllureValidateTitle.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/DataDrivenTesting/ReadingThroughJson.js" />
         <option value="$PROJECT_DIR$/DataDrivenTesting/conf.js" />
-        <option value="$PROJECT_DIR$/DataDrivenTesting/Objects.json" />
         <option value="$PROJECT_DIR$/DataDrivenTesting/GmailTest.js" />
+        <option value="$PROJECT_DIR$/DataDrivenTesting/Objects.json" />
+        <option value="$PROJECT_DIR$/DataDrivenTesting/ExcelTest.js" />
       </list>
     </option>
   </component>
@@ -333,7 +143,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -346,10 +155,16 @@
               <item name="Protractor" type="462c0819:PsiDirectoryNode" />
               <item name="DataDrivenTesting" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Protractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Protractor" type="462c0819:PsiDirectoryNode" />
+              <item name="Locator" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -360,11 +175,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Protractor\DataDrivenTesting" />
       <recent name="D:\Webstorm\ProtractorModules\ProtractorTest\Docker" />
       <recent name="D:\Webstorm\ProtractorModules\ProtractorTest\NonAngular" />
       <recent name="D:\Webstorm\ProtractorModules\ProtractorTest\Banking" />
       <recent name="D:\Webstorm\ProtractorModules\ProtractorTest\DataDrivenTesting" />
-      <recent name="D:\Webstorm\ProtractorModules\ProtractorTest\Mail" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -575,16 +390,17 @@
       <workItem from="1548910216505" duration="13562000" />
       <workItem from="1549201642010" duration="4532000" />
       <workItem from="1549245087160" duration="4768000" />
+      <workItem from="1549330117053" duration="5347000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101205000" />
+    <option name="totallyTimeSpent" value="106552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24377745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24377745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -613,8 +429,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Banking/BankMangerLogin" />
-    <entry file="file://$PROJECT_DIR$/Banking/select-wrapper.js" />
     <entry file="file://$PROJECT_DIR$/Banking/CustomerLogin.js" />
     <entry file="file://$PROJECT_DIR$/Banking/customlocators.js" />
     <entry file="file://$PROJECT_DIR$/Banking/BankMangerLogin.js" />
@@ -659,7 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -856,7 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -864,7 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -872,7 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -885,7 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -893,7 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -901,13 +709,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataDrivenTesting/ReadingThroughJson.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="53" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataDrivenTesting/Objects.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataDrivenTesting/GmailTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="33" column="42" lean-forward="false" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="204">
           <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="42" />
           <folding />
         </state>
@@ -916,23 +747,15 @@
     <entry file="file://$PROJECT_DIR$/DataDrivenTesting/conf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenTesting/Objects.json">
+    <entry file="file://$PROJECT_DIR$/DataDrivenTesting/ExcelTest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenTesting/GmailTest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state relative-caret-position="121">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
           <folding />
         </state>
       </provider>
