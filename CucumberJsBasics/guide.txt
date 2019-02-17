@@ -1,0 +1,9 @@
+npm init
+npm install cucumber
+
+FeatureFile: D:\Projects\Protractor\CucumberJsBasics\features
+
+Execuatble Path-D:\Projects\Protractor\CucumberJsBasics\node_modules\.bin\cucumber-js.cmd
+
+
+WebStorm can do it for you: hit Alt+Enter on the highlighted statement, choose 'Change JavaScript version to ECMASCript 6'

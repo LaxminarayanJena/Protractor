@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a695c9ab-d88b-49f9-81e6-a59390c3a6f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataDrivenTesting/ReadingThroughJson.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CucumberJsBasics/features/login.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CucumberJsBasics/features/stepDefinations/stepDefination.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataDrivenTesting/ExcelTest.js" afterPath="$PROJECT_DIR$/DataDrivenTesting/ExcelTest.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataDrivenTesting/GmailTest.js" afterPath="$PROJECT_DIR$/DataDrivenTesting/GmailTest.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataDrivenTesting/Objects.json" afterPath="$PROJECT_DIR$/DataDrivenTesting/Objects.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,32 +19,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="conf.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataDrivenTesting/conf.js">
+      <file leaf-file-name="login.feature" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CucumberJsBasics/features/login.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file leaf-file-name="stepDefination.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CucumberJsBasics/features/stepDefinations/stepDefination.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExcelTest.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataDrivenTesting/ExcelTest.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+              <folding>
+                <marker date="1550384907951" expanded="true" signature="103:176" ph="{...}" />
+                <marker date="1550384907951" expanded="true" signature="234:304" ph="{...}" />
+                <marker date="1550384907951" expanded="true" signature="356:420" ph="{...}" />
+                <marker date="1550384907951" expanded="true" signature="472:536" ph="{...}" />
+                <marker date="1550384907951" expanded="true" signature="597:670" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,6 +101,9 @@
         <option value="$PROJECT_DIR$/DataDrivenTesting/GmailTest.js" />
         <option value="$PROJECT_DIR$/DataDrivenTesting/Objects.json" />
         <option value="$PROJECT_DIR$/DataDrivenTesting/ExcelTest.js" />
+        <option value="$PROJECT_DIR$/CucumberJsBasics/package.json" />
+        <option value="$PROJECT_DIR$/CucumberJsBasics/features/login.feature" />
+        <option value="$PROJECT_DIR$/CucumberJsBasics/features/stepDefinations/stepDefination.js" />
       </list>
     </option>
   </component>
@@ -116,6 +114,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/CucumberJsBasics/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -142,7 +141,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,25 +152,33 @@
             <path>
               <item name="Protractor" type="b2602c69:ProjectViewProjectNode" />
               <item name="Protractor" type="462c0819:PsiDirectoryNode" />
-              <item name="DataDrivenTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="CucumberJsBasics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Protractor" type="b2602c69:ProjectViewProjectNode" />
               <item name="Protractor" type="462c0819:PsiDirectoryNode" />
-              <item name="Locator" type="462c0819:PsiDirectoryNode" />
+              <item name="CucumberJsBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Protractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Protractor" type="462c0819:PsiDirectoryNode" />
+              <item name="CucumberJsBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="stepDefinations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CucumberJsBasics/node_modules/.bin/cucumber-js.cmd" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -194,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.DataDrivenTesting">
+  <component name="RunManager" selected="Cucumber.js.login.feature">
     <configuration name="Banking" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="$USER_HOME$/AppData/Roaming/npm/node_modules/protractor/built/cli.js" application-parameters="D:\Webstorm\ProtractorModules\ProtractorTest\E2ETesting\Banking\conf.js" working-dir="$PROJECT_DIR$/E2ETesting/Banking">
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
@@ -356,7 +363,17 @@
         </option>
       </EXTENSION>
     </configuration>
-    <list size="7">
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" value="D:\Projects\Protractor\CucumberJsBasics\node_modules\.bin\cucumber-js.cmd" />
+      <option name="filePath" value="D:\Projects\Protractor\CucumberJsBasics\features" />
+    </configuration>
+    <configuration name="login.feature" type="cucumber.js" factoryName="Cucumber.js" temporary="true">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" value="D:\Projects\Protractor\CucumberJsBasics\node_modules\.bin\cucumber-js.cmd" />
+      <option name="filePath" value="D:\Projects\Protractor\CucumberJsBasics\features" />
+    </configuration>
+    <list size="8">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Protractor" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.Mail" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.DataDrivenTesting" />
@@ -364,7 +381,13 @@
       <item index="4" class="java.lang.String" itemvalue="Node.js.TestSuite" />
       <item index="5" class="java.lang.String" itemvalue="Node.js.Locator" />
       <item index="6" class="java.lang.String" itemvalue="Node.js.Docker" />
+      <item index="7" class="java.lang.String" itemvalue="Cucumber.js.login.feature" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Cucumber.js.login.feature" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -391,20 +414,43 @@
       <workItem from="1549201642010" duration="4532000" />
       <workItem from="1549245087160" duration="4768000" />
       <workItem from="1549330117053" duration="5347000" />
+      <workItem from="1549976493571" duration="597000" />
+      <workItem from="1550294841832" duration="2795000" />
+      <workItem from="1550380946446" duration="3367000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="login_feature - 2019.02.17 at 11h 46m 12s.xml">
+      <configuration name="login.feature" configurationId="cucumber.js" />
+    </history-entry>
+    <history-entry file="login_feature - 2019.02.17 at 11h 57m 21s.xml">
+      <configuration name="login.feature" configurationId="cucumber.js" />
+    </history-entry>
+    <history-entry file="login_feature - 2019.02.17 at 11h 59m 41s.xml">
+      <configuration name="login.feature" configurationId="cucumber.js" />
+    </history-entry>
+    <history-entry file="login_feature - 2019.02.17 at 12h 00m 53s.xml">
+      <configuration name="login.feature" configurationId="cucumber.js" />
+    </history-entry>
+    <history-entry file="login_feature - 2019.02.17 at 12h 06m 14s.xml">
+      <configuration name="login.feature" configurationId="cucumber.js" />
+    </history-entry>
+    <history-entry file="login_feature - 2019.02.17 at 12h 07m 08s.xml">
+      <configuration name="login.feature" configurationId="cucumber.js" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106552000" />
+    <option name="totallyTimeSpent" value="113311000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24377745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23206443" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3007752" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.572093" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -417,6 +463,24 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5736434" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23206443" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -429,9 +493,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Banking/CustomerLogin.js" />
-    <entry file="file://$PROJECT_DIR$/Banking/customlocators.js" />
-    <entry file="file://$PROJECT_DIR$/Banking/BankMangerLogin.js" />
     <entry file="file://$PROJECT_DIR$/Banking/conf.js" />
     <entry file="file://$PROJECT_DIR$/E2ETesting/Banking/conf.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -716,7 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="53" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -724,7 +784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -732,7 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
           <caret line="33" column="42" lean-forward="false" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -748,14 +806,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataDrivenTesting/ExcelTest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        <state relative-caret-position="186">
+          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CucumberJsBasics/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CucumberJsBasics/features/stepDefinations/stepDefination.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding>
+            <marker date="1550384907951" expanded="true" signature="103:176" ph="{...}" />
+            <marker date="1550384907951" expanded="true" signature="234:304" ph="{...}" />
+            <marker date="1550384907951" expanded="true" signature="356:420" ph="{...}" />
+            <marker date="1550384907951" expanded="true" signature="472:536" ph="{...}" />
+            <marker date="1550384907951" expanded="true" signature="597:670" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CucumberJsBasics/features/login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
