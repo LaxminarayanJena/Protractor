@@ -7,6 +7,7 @@ Feature:Login
     Given user navigates to facebook website
     When user validates the homepage title
 
+    @dev
   Scenario Outline: In order to verify login to facebook as valid user
     Then user entered "<username>" username
     Then user entered "<password>" password

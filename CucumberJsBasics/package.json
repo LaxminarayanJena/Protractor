@@ -4,11 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cuke": ".\\node_modules\\.bin\\cucumber-js --format=json:cucumber_report.json && node index.js"
   },
   "author": "Jena",
   "license": "ISC",
   "dependencies": {
     "cucumber": "^5.1.0"
+  },
+  "devDependencies": {
+    "cucumber-html-reporter": "^4.0.4"
   }
 }

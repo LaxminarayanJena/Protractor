@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a695c9ab-d88b-49f9-81e6-a59390c3a6f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CucumberJsBasics/features/logintoProd.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CucumberJsBasics/features/stepDefinations/stepDefination1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CucumberJsBasics/features/stepDefinations/hooks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CucumberJsBasics/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberJsBasics/features/login.feature" afterPath="$PROJECT_DIR$/CucumberJsBasics/features/login.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberJsBasics/features/logintoProd.feature" afterPath="$PROJECT_DIR$/CucumberJsBasics/features/logintoProd.feature" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberJsBasics/features/stepDefinations/stepDefination.js" afterPath="$PROJECT_DIR$/CucumberJsBasics/features/stepDefinations/stepDefination.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberJsBasics/node_modules/cucumber/package.json" afterPath="$PROJECT_DIR$/CucumberJsBasics/node_modules/cucumber/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberJsBasics/features/stepDefinations/stepDefination1.js" afterPath="$PROJECT_DIR$/CucumberJsBasics/features/stepDefinations/stepDefination1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberJsBasics/guide.txt" afterPath="$PROJECT_DIR$/CucumberJsBasics/guide.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberJsBasics/package-lock.json" afterPath="$PROJECT_DIR$/CucumberJsBasics/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberJsBasics/package.json" afterPath="$PROJECT_DIR$/CucumberJsBasics/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="stepDefination1.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CucumberJsBasics/features/stepDefinations/stepDefination1.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CucumberJsBasics/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+            <state relative-caret-position="204">
+              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -89,11 +91,13 @@
         <option value="$PROJECT_DIR$/DataDrivenTesting/GmailTest.js" />
         <option value="$PROJECT_DIR$/DataDrivenTesting/Objects.json" />
         <option value="$PROJECT_DIR$/DataDrivenTesting/ExcelTest.js" />
-        <option value="$PROJECT_DIR$/CucumberJsBasics/package.json" />
-        <option value="$PROJECT_DIR$/CucumberJsBasics/features/stepDefinations/stepDefination.js" />
+        <option value="$PROJECT_DIR$/CucumberJsBasics/features/stepDefinations/stepDefination1.js" />
         <option value="$PROJECT_DIR$/CucumberJsBasics/features/login.feature" />
         <option value="$PROJECT_DIR$/CucumberJsBasics/features/logintoProd.feature" />
-        <option value="$PROJECT_DIR$/CucumberJsBasics/features/stepDefinations/stepDefination1.js" />
+        <option value="$PROJECT_DIR$/CucumberJsBasics/features/stepDefinations/hooks.js" />
+        <option value="$PROJECT_DIR$/CucumberJsBasics/features/stepDefinations/stepDefination.js" />
+        <option value="$PROJECT_DIR$/CucumberJsBasics/package.json" />
+        <option value="$PROJECT_DIR$/CucumberJsBasics/index.js" />
       </list>
     </option>
   </component>
@@ -143,32 +147,6 @@
               <item name="Protractor" type="b2602c69:ProjectViewProjectNode" />
               <item name="Protractor" type="462c0819:PsiDirectoryNode" />
               <item name="CucumberJsBasics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Protractor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Protractor" type="462c0819:PsiDirectoryNode" />
-              <item name="CucumberJsBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Protractor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Protractor" type="462c0819:PsiDirectoryNode" />
-              <item name="CucumberJsBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-              <item name="stepDefinations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Protractor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Protractor" type="462c0819:PsiDirectoryNode" />
-              <item name="CucumberJsBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Protractor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Protractor" type="462c0819:PsiDirectoryNode" />
-              <item name="CucumberJsBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name=".bin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -378,7 +356,7 @@
     </configuration>
     <configuration name="login.feature" type="cucumber.js" factoryName="Cucumber.js">
       <option name="cucumberJsArguments" value="" />
-      <option name="executablePath" value="D:\Projects\Protractor\CucumberJsBasics\node_modules\.bin\cucumber-js.cmd" />
+      <option name="executablePath" value="D:\Projects\Protractor\CucumberJsBasics\node_modules\.bin\cucumber-js.cmd " />
       <option name="filePath" value="D:\Projects\Protractor\CucumberJsBasics\features\" />
     </configuration>
     <configuration name="logintoProd.feature" type="cucumber.js" factoryName="Cucumber.js" temporary="true">
@@ -434,44 +412,44 @@
       <workItem from="1550380946446" duration="3367000" />
       <workItem from="1550385544105" duration="5775000" />
       <workItem from="1550410569312" duration="9019000" />
-      <workItem from="1550463596262" duration="3359000" />
+      <workItem from="1550463596262" duration="9530000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="login_feature - 2019.02.18 at 11h 48m 38s.xml">
+    <history-entry file="login_feature - 2019.02.18 at 12h 34m 37s.xml">
       <configuration name="login.feature" configurationId="cucumber.js" />
     </history-entry>
-    <history-entry file="login_feature - 2019.02.18 at 11h 49m 06s.xml">
+    <history-entry file="login_feature - 2019.02.18 at 12h 35m 02s.xml">
       <configuration name="login.feature" configurationId="cucumber.js" />
     </history-entry>
-    <history-entry file="login_feature - 2019.02.18 at 11h 49m 42s.xml">
+    <history-entry file="login_feature - 2019.02.18 at 12h 35m 14s.xml">
       <configuration name="login.feature" configurationId="cucumber.js" />
     </history-entry>
-    <history-entry file="login_feature - 2019.02.18 at 11h 49m 57s.xml">
+    <history-entry file="login_feature - 2019.02.18 at 12h 35m 26s.xml">
       <configuration name="login.feature" configurationId="cucumber.js" />
     </history-entry>
-    <history-entry file="login_feature - 2019.02.18 at 11h 54m 19s.xml">
+    <history-entry file="login_feature - 2019.02.18 at 13h 20m 38s.xml">
       <configuration name="login.feature" configurationId="cucumber.js" />
     </history-entry>
-    <history-entry file="login_feature - 2019.02.18 at 11h 54m 53s.xml">
+    <history-entry file="login_feature - 2019.02.18 at 13h 21m 50s.xml">
       <configuration name="login.feature" configurationId="cucumber.js" />
     </history-entry>
-    <history-entry file="login_feature - 2019.02.18 at 11h 56m 13s.xml">
+    <history-entry file="login_feature - 2019.02.18 at 13h 22m 35s.xml">
       <configuration name="login.feature" configurationId="cucumber.js" />
     </history-entry>
-    <history-entry file="login_feature - 2019.02.18 at 11h 56m 16s.xml">
+    <history-entry file="login_feature - 2019.02.18 at 13h 25m 12s.xml">
       <configuration name="login.feature" configurationId="cucumber.js" />
     </history-entry>
-    <history-entry file="login_feature - 2019.02.18 at 11h 56m 37s.xml">
+    <history-entry file="login_feature - 2019.02.18 at 13h 27m 48s.xml">
       <configuration name="login.feature" configurationId="cucumber.js" />
     </history-entry>
-    <history-entry file="login_feature - 2019.02.18 at 12h 00m 16s.xml">
+    <history-entry file="login_feature - 2019.02.18 at 13h 28m 29s.xml">
       <configuration name="login.feature" configurationId="cucumber.js" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131464000" />
+    <option name="totallyTimeSpent" value="137635000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -506,27 +484,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/E2ETesting/Banking/BankManagerLogin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NonAngular/conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NonAngular/Login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="68" lean-forward="false" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Docker/CustomerLogin.js" />
     <entry file="file://$PROJECT_DIR$/Docker/ByModel.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -820,41 +777,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CucumberJsBasics/package.json">
+    <entry file="file://$PROJECT_DIR$/CucumberJsBasics/node_modules/.bin/cucumber_report.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CucumberJsBasics/features/logintoProd.feature">
+    <entry file="file://$PROJECT_DIR$/CucumberJsBasics/features/stepDefinations/hooks.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="183">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CucumberJsBasics/features/stepDefinations/stepDefination.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="19" column="82" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="82" />
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CucumberJsBasics/features/login.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="59" />
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CucumberJsBasics/features/logintoProd.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CucumberJsBasics/features/stepDefinations/stepDefination1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CucumberJsBasics/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="100" lean-forward="false" selection-start-line="7" selection-start-column="100" selection-end-line="7" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CucumberJsBasics/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
           <folding />
         </state>
       </provider>
