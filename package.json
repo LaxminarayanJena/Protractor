@@ -17,6 +17,7 @@
 		"winston": "1.0.1"
 	},
 	"dependencies": {
+		"cucumber": "^5.1.0",
 		"jasmine-data-provider": "^2.2.0",
 		"nodemailer": "^0.7.0",
 		"path": "^0.12.7",

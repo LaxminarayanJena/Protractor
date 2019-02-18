@@ -1,21 +1,21 @@
 var {Given, When, Then} =require('cucumber');
 
-Given('user naviagtes to facebook website', function () {
+Given(/^user navigates to facebook website$/, function () {
     return console.log("@Given--user navigates to facebook website");
 });
 
-When('user validates the homepage title', function () {
+When(/^user validates the homepage title$/, function () {
     return console.log("@Then-user validates the homepage title");
 });
 
-Then('user entered valid username', function () {
-    return console.log("@Then-user entered valid username");
+Then(/^user entered "([^"]*)" username$/, function (username) {
+    return console.log("@Then-user entered " + username + " username");
 });
 
-Then('user entered valid password', function () {
-    return console.log("@Then-user entered valid password");
+Then(/^user entered "([^"]*)" password$/, function (password) {
+    return console.log("@Then-user entered " + password + " password");
 });
 
-Then('user should be sucessfully logged in', function () {
-    return console.log("@Then-user should be sucessfully logged in");
+Then('user should  {string} sucessfully logged in', function (loginType) {
+    return console.log("@Then-user should "+ loginType +" sucessfully logged in");
 });
