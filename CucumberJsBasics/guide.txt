@@ -16,3 +16,11 @@ WebStorm can do it for you: hit Alt+Enter on the highlighted statement, choose '
 
 
 
+--------------------------------------------------------------------
+
+npm install protractor-cucumber-framework --save-dev
+
+
+
+
+

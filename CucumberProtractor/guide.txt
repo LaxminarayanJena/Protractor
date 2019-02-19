@@ -1,0 +1,34 @@
+npm init
+npm install cucumber
+
+
+FeatureFile: D:\Projects\Protractor\CucumberJsBasics\features
+Cucumber.js arguments:   --tags @prod
+
+Execuatble Path-D:\Projects\Protractor\CucumberJsBasics\node_modules\.bin\cucumber-js.cmd
+
+
+WebStorm can do it for you: hit Alt+Enter on the highlighted statement, choose 'Change JavaScript version to ECMASCript 6'
+
+
+npm install cucumber-html-reporter --save-dev
+
+
+node index.js
+
+--------------------------------------------------------------------
+
+npm install protractor-cucumber-framework --save-dev
+
+
+in package.json
+"cuke": ".\\node_modules\\.bin\\cucumber-js --format=json:cucumber_report.json && node index.js",
+"protractorcuke": "protractor protractor.conf.js && node index.js"
+
+
+npm run protractor cuke
+
+
+
+
+

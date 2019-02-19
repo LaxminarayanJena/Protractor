@@ -13,6 +13,7 @@
     "cucumber": "^5.1.0"
   },
   "devDependencies": {
-    "cucumber-html-reporter": "^4.0.4"
+    "cucumber-html-reporter": "^4.0.4",
+    "protractor-cucumber-framework": "^6.1.1"
   }
 }
