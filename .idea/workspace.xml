@@ -2,50 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a695c9ab-d88b-49f9-81e6-a59390c3a6f6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/json-output-folder/login.chrome.72.0.3626.109_1550901673345.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/json-output-folder/login.firefox.65.0.1_1550901681650.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/css/dataTables.bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/css/responsive.dataTables.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/js/Chart.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/js/dataTables.bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/js/dataTables.responsive.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/js/html5shiv.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/js/jquery-3.2.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/js/jquery.dataTables.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/assets/js/respond.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/features/47e889ca-d251-42f3-bf87-e2f3e68911a8-login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/features/6b122ea9-f5b9-4aaf-bb8e-aa7477ec8084-login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/features/8ca485be-5c86-43ad-b45e-dbc2c0a6d717-login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/features/8eab0b60-e80d-4980-b6b8-efe44a0a78cb-login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/features/ad49a757-8c2b-46d0-82ac-9f0a72ffaf7d-login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/features/dbf7e6c0-8e87-4f3a-833f-5b53b8fa4375-login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/features/f468c877-0ecf-451d-a0f3-3e60735d833b-login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/report/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/results.1472.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/results.5824.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/results.5856.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/.tmp/results.6104.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/cucumber_report.3328.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberProtractor/cucumber_report.5096.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberChai/.tmp/json-output-folder/login.chrome.72.0.3626.109_1550912806253.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberChai/.tmp/json-output-folder/login.firefox.65.0.1_1550912797846.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberChai/.tmp/report/features/c3ac0709-3e05-4176-971b-0b6887146952-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberChai/.tmp/report/features/d1209136-e419-4138-a83b-1d2bd14a9d8b-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberChai/.tmp/report/features/e5461597-015c-4615-9b4c-6ac5234df4a3-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberChai/.tmp/results.4952.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberChai/.tmp/results.692.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberProtractor/guide.txt" afterPath="$PROJECT_DIR$/CucumberProtractor/guide.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberProtractor/package-lock.json" afterPath="$PROJECT_DIR$/CucumberProtractor/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberProtractor/package.json" afterPath="$PROJECT_DIR$/CucumberProtractor/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberProtractor/protractor.conf.js" afterPath="$PROJECT_DIR$/CucumberProtractor/protractor.conf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberChai/.tmp/report/index.html" afterPath="$PROJECT_DIR$/CucumberChai/.tmp/report/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberChai/features/login.feature" afterPath="$PROJECT_DIR$/CucumberChai/features/login.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberChai/features/stepDefinations/stepDefination.js" afterPath="$PROJECT_DIR$/CucumberChai/features/stepDefinations/stepDefination.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -59,11 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="stepDefination.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="stepDefination.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CucumberChai/features/stepDefinations/stepDefination.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.feature" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CucumberChai/features/login.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -134,8 +111,8 @@
         <option value="$PROJECT_DIR$/CucumberProtractor/package.json" />
         <option value="$PROJECT_DIR$/CucumberProtractor/protractor.conf.js" />
         <option value="$PROJECT_DIR$/CucumberChai/protractor.conf.js" />
-        <option value="$PROJECT_DIR$/CucumberChai/features/login.feature" />
         <option value="$PROJECT_DIR$/CucumberChai/features/stepDefinations/stepDefination.js" />
+        <option value="$PROJECT_DIR$/CucumberChai/features/login.feature" />
       </list>
     </option>
   </component>
@@ -185,19 +162,6 @@
               <item name="Protractor" type="b2602c69:ProjectViewProjectNode" />
               <item name="Protractor" type="462c0819:PsiDirectoryNode" />
               <item name="CucumberChai" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Protractor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Protractor" type="462c0819:PsiDirectoryNode" />
-              <item name="CucumberChai" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Protractor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Protractor" type="462c0819:PsiDirectoryNode" />
-              <item name="CucumberChai" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-              <item name="stepDefinations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -486,7 +450,7 @@
       <workItem from="1550410569312" duration="9019000" />
       <workItem from="1550463596262" duration="10602000" />
       <workItem from="1550555684326" duration="7308000" />
-      <workItem from="1550897137051" duration="8774000" />
+      <workItem from="1550897137051" duration="10495000" />
     </task>
     <servers />
   </component>
@@ -523,13 +487,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154789000" />
+    <option name="totallyTimeSpent" value="156510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21888727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21888727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -887,18 +850,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CucumberChai/features/login.feature">
+    <entry file="file://$PROJECT_DIR$/CucumberChai/features/stepDefinations/stepDefination.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="76" lean-forward="false" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
+        <state relative-caret-position="85">
+          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CucumberChai/features/stepDefinations/stepDefination.js">
+    <entry file="file://$PROJECT_DIR$/CucumberChai/features/login.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>

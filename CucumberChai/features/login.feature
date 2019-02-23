@@ -5,5 +5,5 @@ Feature:Login
 
  Scenario:In order to verify login to facebook on production
    Given I go to "https://www.protractortest.org"
-   When I found the title as "Protractor - end-to-end testing for AngularJS1"
+   When I found the title as "Protractor - end-to-end testing for AngularJS"
 
