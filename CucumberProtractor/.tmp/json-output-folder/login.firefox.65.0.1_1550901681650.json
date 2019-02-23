@@ -1,0 +1,194 @@
+[
+  {
+    "description": "  In order to perform sucessfull Login\n  As a user\n  I want to enter correct username and password",
+    "keyword": "Feature",
+    "name": "Login",
+    "line": 1,
+    "id": "login",
+    "tags": [],
+    "uri": "features\\login.feature",
+    "elements": [
+      {
+        "id": "login;in-order-to-verify-login-to-facebook",
+        "keyword": "Scenario",
+        "line": 18,
+        "name": "In order to verify login to facebook",
+        "tags": [
+          {
+            "name": "@dev",
+            "line": 10
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "user navigates to facebook website",
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:4"
+            },
+            "result": {
+              "status": "passed"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "user validates the homepage title",
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:8"
+            },
+            "result": {
+              "status": "passed"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "user entered \"valid\" username",
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:12"
+            },
+            "result": {
+              "status": "passed"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "user entered \"valid\" password",
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:16"
+            },
+            "result": {
+              "status": "passed"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "user should  \"be\" sucessfully logged in",
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:20"
+            },
+            "result": {
+              "status": "passed"
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:26"
+            },
+            "result": {
+              "status": "passed"
+            }
+          }
+        ]
+      },
+      {
+        "id": "login;in-order-to-verify-login-to-facebook",
+        "keyword": "Scenario",
+        "line": 19,
+        "name": "In order to verify login to facebook",
+        "tags": [
+          {
+            "name": "@dev",
+            "line": 10
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "user navigates to facebook website",
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:4"
+            },
+            "result": {
+              "status": "passed"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "user validates the homepage title",
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:8"
+            },
+            "result": {
+              "status": "passed"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "user entered \"invalid\" username",
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:12"
+            },
+            "result": {
+              "status": "passed"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "user entered \"invalid\" password",
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:16"
+            },
+            "result": {
+              "status": "passed"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "user should  \"not\" sucessfully logged in",
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:20"
+            },
+            "result": {
+              "status": "passed"
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:26"
+            },
+            "result": {
+              "status": "passed"
+            }
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "browser": {
+        "name": "firefox",
+        "version": "65.0.1"
+      },
+      "device": "",
+      "platform": {
+        "name": "",
+        "version": ""
+      }
+    }
+  }
+]

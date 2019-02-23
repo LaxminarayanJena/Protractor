@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "cuke": ".\\node_modules\\.bin\\cucumber-js --format=json:cucumber_report.json && node index.js",
-    "protractorcuke": "protractor protractor.conf.js && node index.js"
+    "protractorcuke": "protractor protractor.conf.js"
   },
   "author": "Jena",
   "license": "ISC",
@@ -15,6 +15,7 @@
   },
   "devDependencies": {
     "cucumber-html-reporter": "^4.0.4",
-    "protractor-cucumber-framework": "^6.1.1"
+    "protractor-cucumber-framework": "^6.1.1",
+    "protractor-multiple-cucumber-html-reporter-plugin": "^1.8.0"
   }
 }

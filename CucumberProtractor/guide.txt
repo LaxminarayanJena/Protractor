@@ -26,9 +26,12 @@ in package.json
 "protractorcuke": "protractor protractor.conf.js && node index.js"
 
 
-npm run protractor cuke
+npm run protractorcuke
 
 
 
 
+
+
+npm install protractor-multiple-cucumber-html-reporter-plugin --save-dev
 

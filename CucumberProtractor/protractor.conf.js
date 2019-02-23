@@ -4,12 +4,28 @@ exports.config = {
     allScriptsTimeout:50000,
     framework: 'custom',
     frameworkPath: require.resolve('protractor-cucumber-framework'),
-    capabilities: {'browserName': 'chrome'},
+    multiCapabilities: [{
+         "browserName": 'firefox'
+    },{
+        "browserName": 'chrome'
+    }],
+
+    plugins: [{
+        package: require.resolve('protractor-multiple-cucumber-html-reporter-plugin'),
+        options:{
+            automaticallyGenerateReport: true,
+            removeExistingJsonReportFile: true,
+            reportName:'CucumberJS Report'
+        }
+    }],
+
+    maxSessions:2,
     specs: ['features/*.feature'],
 
     cucumberOpts: {
         tags:false,
-        format:'json:cucumber_report.json',
+        //format:'json:cucumber_report.json',
+        format: 'json:.tmp/results.json',
         require: ['features/stepDefinitions/stepDefination.js']
     }
 };
