@@ -15,8 +15,19 @@ exports.config = {
         options:{
             automaticallyGenerateReport: true,
             removeExistingJsonReportFile: true,
-            reportName:'CucumberJS Report'
-        }
+            reportName:'CucumberJS Report',
+            pageFooter:'<div><p>Created by Jena</p></div>',
+            pageTitle:'CucumberJS with Protractor Report',
+            customData: {
+                title: 'Execution info',
+                data: [
+                    {label: 'Project',value:'Cucumber JS Project'},
+                    {label: 'Release',value:'1.0'},
+                    {label: 'Tester',value:'LaxminarayanJena'},
+                ]
+            },
+            displayDuration:true
+            }
     }],
 
     maxSessions:2,
