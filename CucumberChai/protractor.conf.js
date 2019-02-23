@@ -1,3 +1,6 @@
+var PropertiesReader = require('properties-reader');
+var prop = PropertiesReader('./properties/prop.properties');
+
 exports.config = {
     directConnect: true,
     getPageTimeout:60000,
@@ -37,7 +40,8 @@ exports.config = {
         tags:false,
         //format:'json:cucumber_report.json',
         format: 'json:.tmp/results.json',
-        require: ['features/stepDefinitions/stepDefination.js']
+       // require: ['features/stepDefinitions/stepDefination.js']
+        require: [prop.get('stepPath')]
     }
 };
 

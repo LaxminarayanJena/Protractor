@@ -1,0 +1,70 @@
+[
+  {
+    "description": "  In order to perform sucessfull Login\n  As a user\n  I want to enter correct username and password",
+    "keyword": "Feature",
+    "name": "Login",
+    "line": 1,
+    "id": "login",
+    "tags": [],
+    "uri": "features\\login.feature",
+    "elements": [
+      {
+        "id": "login;in-order-to-verify-login-to-facebook-on-production",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "In order to verify login to facebook on production",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "I go to \"https://www.protractortest.org\"",
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 854000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "I found the title as \"Protractor - end-to-end testing for AngularJS\"",
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 129000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:9"
+            },
+            "result": {
+              "status": "passed"
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -18,8 +18,10 @@ After(function(scenarioResult) {
         });
     }
 });
-Given('I go to {string}', function (site) {
-    return browser.get(site)
+Given('I go to {string}', function (site,callback) {
+    //return browser.get(site)
+    browser.get(site).then(callback);
+
 });
 
 When('I found the title as {string}', function (title) {

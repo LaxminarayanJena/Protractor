@@ -1,0 +1,131 @@
+[
+  {
+    "description": "  In order to perform sucessfull Login\n  As a user\n  I select customer Login",
+    "keyword": "Feature",
+    "name": "Banking",
+    "line": 1,
+    "id": "banking",
+    "tags": [],
+    "uri": "features\\login.feature",
+    "elements": [
+      {
+        "id": "banking;in-order-to-verify-login-to--banking-app",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "In order to verify login to  Banking App",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "I go to \"http://www.way2automation.com/angularjs-protractor/banking/#/login\"",
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2393000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "I found the title as \"Protractor practice website - Banking App\"",
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 303000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "I click on CustomerLogin Button",
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:33"
+            },
+            "result": {
+              "status": "pending",
+              "duration": 1000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "I select the value as \"Harry Potter\" from the list",
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:38"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "I click on Login",
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:44"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "Welcome Page should show login as \"Harry Potter\"",
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:50"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "features\\stepDefinations\\stepDefination.js:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 9000000
+            }
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "browser": {
+        "name": "chrome",
+        "version": "72.0.3626.109"
+      },
+      "device": "",
+      "platform": {
+        "name": "",
+        "version": ""
+      }
+    }
+  }
+]
