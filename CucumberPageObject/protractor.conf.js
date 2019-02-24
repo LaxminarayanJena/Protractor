@@ -1,6 +1,7 @@
 var PropertiesReader = require('properties-reader');
 var prop = PropertiesReader('./properties/prop.properties');
 
+
 exports.config = {
     directConnect: true,
     getPageTimeout:60000,

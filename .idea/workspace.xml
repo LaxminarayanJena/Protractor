@@ -2,16 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a695c9ab-d88b-49f9-81e6-a59390c3a6f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CucumberChai/properties/prop.properties" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberChai/.tmp/json-output-folder/login.chrome.72.0.3626.109_1550914606982.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberChai/.tmp/json-output-folder/login.firefox.65.0.1_1550914599803.json" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CucumberPageObject/properties/or.properties" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/json-output-folder/banking.chrome.72.0.3626.109_1550947758356.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/json-output-folder/login.chrome.72.0.3626.109_1550939560164.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/json-output-folder/login.firefox.65.0.1_1550939553299.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/07df109b-fdfb-43d1-bc3c-e61d363cbab8-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/0cf1324e-dc99-4446-9827-a4a3bedb4c1a-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/15794a2c-d9c3-479b-8f09-08f160622ff6-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/25e631e1-f2ad-454a-a766-028ffa81fb83-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/2762b02e-fbb9-45a5-b3ee-92517e024b55-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/4b5716ca-c9f5-4741-9693-918f6100a29a-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/4ba7c7cf-22cc-4667-b7e9-9445d4eddd41-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/4bf19607-9eb6-4952-bfc0-e7f09e2015a4-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/523bb4a0-ebff-4694-a3e9-4d01771766af-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/5c153400-4661-4cbf-9c5e-7f01e302fc2f-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/6d2ae51f-557e-4f41-bedd-b143f31803a0-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/6ed8fb1d-60be-401a-8702-b76a632b8bee-banking.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/7036a4c1-9566-4683-8960-9d5c5360694f-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/759521ce-4ea7-4657-957a-4ddf9db943f3-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/910ac743-5073-4647-8dfd-3317c12c7d11-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/9d3d126a-6fd8-48be-a9af-9713f5efb75a-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/a4a84a0f-4726-4b58-8666-b70c4a3f397c-banking.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/b82998cb-1e1e-4cf8-a4aa-ea6edff58091-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/d3aa2132-9156-420e-8bd8-25da8c3f5bba-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/e0fbbbdd-80a6-4dab-a735-3844d41b7dae-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/features/f4d87ef9-9e4e-4bc3-a3e9-ac396ef85d66-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/results.1236.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/results.1976.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/results.3964.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/results.4008.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/results.4428.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/results.5460.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/results.5908.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/results.664.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberChai/.tmp/report/index.html" afterPath="$PROJECT_DIR$/CucumberChai/.tmp/report/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberChai/features/stepDefinations/stepDefination.js" afterPath="$PROJECT_DIR$/CucumberChai/features/stepDefinations/stepDefination.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberChai/guide.txt" afterPath="$PROJECT_DIR$/CucumberChai/guide.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberChai/package-lock.json" afterPath="$PROJECT_DIR$/CucumberChai/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberChai/package.json" afterPath="$PROJECT_DIR$/CucumberChai/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberChai/protractor.conf.js" afterPath="$PROJECT_DIR$/CucumberChai/protractor.conf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/index.html" afterPath="$PROJECT_DIR$/CucumberPageObject/.tmp/report/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberPageObject/.tmp/results.json" afterPath="$PROJECT_DIR$/CucumberPageObject/.tmp/results.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberPageObject/features/login.feature" afterPath="$PROJECT_DIR$/CucumberPageObject/features/login.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberPageObject/features/stepDefinations/stepDefination.js" afterPath="$PROJECT_DIR$/CucumberPageObject/features/stepDefinations/stepDefination.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CucumberPageObject/protractor.conf.js" afterPath="$PROJECT_DIR$/CucumberPageObject/protractor.conf.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,11 +54,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="stepDefination.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CucumberPageObject/features/stepDefinations/stepDefination.js">
+      <file leaf-file-name="login.feature" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CucumberPageObject/features/login.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="33" column="61" lean-forward="false" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+            <state relative-caret-position="272">
+              <caret line="16" column="73" lean-forward="false" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -51,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Locator/locatorspec.js" />
         <option value="$PROJECT_DIR$/Locator/select-wrapper.js" />
         <option value="$PROJECT_DIR$/Basics/mail.js" />
         <option value="$PROJECT_DIR$/Mail/conf.js" />
@@ -99,9 +127,10 @@
         <option value="$PROJECT_DIR$/CucumberChai/protractor.conf.js" />
         <option value="$PROJECT_DIR$/CucumberChai/properties/prop.properties" />
         <option value="$PROJECT_DIR$/CucumberChai/features/stepDefinations/stepDefination.js" />
-        <option value="$PROJECT_DIR$/CucumberPageObject/features/login.feature" />
         <option value="$PROJECT_DIR$/CucumberPageObject/protractor.conf.js" />
+        <option value="$PROJECT_DIR$/CucumberPageObject/properties/or.properties" />
         <option value="$PROJECT_DIR$/CucumberPageObject/features/stepDefinations/stepDefination.js" />
+        <option value="$PROJECT_DIR$/CucumberPageObject/features/login.feature" />
       </list>
     </option>
   </component>
@@ -114,6 +143,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/CucumberChai/node_modules" />
     <handled-path value="$PROJECT_DIR$/CucumberJsBasics/node_modules" />
+    <handled-path value="$PROJECT_DIR$/CucumberPageObject/node_modules" />
     <handled-path value="$PROJECT_DIR$/CucumberProtractor/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
@@ -141,7 +171,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,28 +178,11 @@
               <item name="Protractor" type="b2602c69:ProjectViewProjectNode" />
               <item name="Protractor" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Protractor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Protractor" type="462c0819:PsiDirectoryNode" />
-              <item name="CucumberPageObject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Protractor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Protractor" type="462c0819:PsiDirectoryNode" />
-              <item name="CucumberPageObject" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Protractor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Protractor" type="462c0819:PsiDirectoryNode" />
-              <item name="CucumberPageObject" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-              <item name="stepDefinations" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -183,11 +195,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Protractor\CucumberPageObject\properties" />
       <recent name="D:\Projects\Protractor\CucumberJsBasics\features\stepDefinations" />
       <recent name="D:\Projects\Protractor\CucumberJsBasics\features" />
       <recent name="D:\Projects\Protractor\DataDrivenTesting" />
       <recent name="D:\Webstorm\ProtractorModules\ProtractorTest\Docker" />
-      <recent name="D:\Webstorm\ProtractorModules\ProtractorTest\NonAngular" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -395,7 +407,7 @@
     <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
       <option name="cucumberJsArguments" value="" />
       <option name="executablePath" value="D:\Projects\Protractor\CucumberJsBasics\node_modules\.bin\cucumber-js.cmd" />
-      <option name="filePath" value="D:\Projects\Protractor\CucumberJsBasics\features\stepDefinations" />
+      <option name="filePath" value="D:\Projects\Protractor\CucumberPageObject\features\login.feature" />
     </configuration>
     <configuration name="login.feature" type="cucumber.js" factoryName="Cucumber.js">
       <option name="cucumberJsArguments" value="" />
@@ -454,7 +466,8 @@
       <workItem from="1550463596262" duration="10602000" />
       <workItem from="1550555684326" duration="7308000" />
       <workItem from="1550897137051" duration="10495000" />
-      <workItem from="1550933433298" duration="8054000" />
+      <workItem from="1550933433298" duration="9248000" />
+      <workItem from="1550986081461" duration="3221000" />
     </task>
     <servers />
   </component>
@@ -491,13 +504,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164564000" />
+    <option name="totallyTimeSpent" value="168979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21888727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21888727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -526,20 +538,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Basics/winston-basic.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/LogExample.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Basics/spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -627,7 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -786,7 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -794,7 +790,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -802,7 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -810,15 +804,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CucumberPageObject/features/login.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -826,7 +811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -834,7 +818,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -842,22 +825,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="6" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CucumberPageObject/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CucumberPageObject/protractor.conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CucumberPageObject/properties/or.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CucumberPageObject/features/stepDefinations/stepDefination.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="33" column="61" lean-forward="false" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+        <state relative-caret-position="302">
+          <caret line="54" column="72" lean-forward="false" selection-start-line="54" selection-start-column="72" selection-end-line="54" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CucumberPageObject/features/login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="73" lean-forward="false" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
           <folding />
         </state>
       </provider>
