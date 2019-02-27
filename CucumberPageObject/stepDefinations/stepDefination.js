@@ -19,38 +19,66 @@ After(function(scenarioResult) {
         });
     }
 });
-Given('I go to {string}', function (site,callback) {
-    //return browser.get(site)
-    browser.get(site).then(callback);
+
+var base =require('../pages/BasePage.js');
+Given('I go to {string}', function (site) {
+   // return browser.get(site)
+   // browser.get(site).then(callback);
+    browser.waitForAngularEnabled(false);
+    base.go(site);
 
 });
 
 When('I found the title as {string}', function (title) {
-    var actualTitle= browser.getTitle();
+    var actualTitle= base.getTitle();
     return expect(actualTitle).to.eventually.equal(title);
 });
 
-
    Then('I click on CustomerLogin Button', function () {
-        return element(by.css(or.get('customerLoginButton'))).click()
-    });
+       //browser.waitForAngularEnabled(true);
+       console.log("printing hello");
+
+       element(by.buttonText("Customer Login")).click();
+       console.log("poltuoooooooooooooooooooooo");
+       element(by.model("custId")).$("[value='2']").click();
+       console.log("sammmmmmmm");
+
+       element(by.buttonText("Login")).click();
+       //element(by.binding("user")).getText().then(function(text)
+       element(by.xpath("//div/div[1]/strong/span")).getText().then(function(text)
+       {
+           console.log(text);
+       });
+       console.log("harrriiimmmm");
+   });
 
 
+var customerLoginPage =require('../pages/CustomerLoginPage.js');
     Then('I select the value as {string} from the list', function (string) {
-        return element(by.model("custId")).$("[value='2']").click();
+
 
     });
 
 
 
     Then('I click on Login', function () {
-        return element(by.xpath("//button[@type='submit']")).click();
+
+
+
+
+
+
+
+       // element(by.buttonText("Login")).click();
+       // browser.sleep(8000);
+       // return element(by.xpath("//button[@type='submit']")).click();
+        //customerLoginPage.doLogin();
     });
 
 
 
     Then('Welcome Page should show login as {string}', function (string) {
-        return expect(element(by.binding('user')).getText()).to.eventually.equal(string);
+       // return expect(element(by.binding('user')).getText()).to.eventually.equal(string);
 
         //ng-inspector for AngularJS chrome extension to find binding id
     });

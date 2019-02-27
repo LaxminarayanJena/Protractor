@@ -10,13 +10,5 @@ Feature:Banking
    Then I click on CustomerLogin Button
    Then I select the value as "Harry Potter" from the list
    Then I click on Login
-   Then Welcome Page should show login as "Harry Potter1"
+   Then Welcome Page should show login as "Harry Potter"
 
-  Scenario:In order to verify login to  Banking App on Staging
-    Given I go to "http://www.way2automation.com/angularjs-protractor/banking/#/login"
-    When I found the title as "Protractor practice website - Banking App1"
-
-    Then I click on CustomerLogin Button
-    Then I select the value as "Harry Potter" from the list
-    Then I click on Login
-    Then Welcome Page should show login as "Harry Potter"

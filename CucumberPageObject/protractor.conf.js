@@ -4,8 +4,8 @@ var prop = PropertiesReader('./properties/prop.properties');
 
 exports.config = {
     directConnect: true,
-    getPageTimeout:60000,
-    allScriptsTimeout:50000,
+    getPageTimeout:90000,
+    allScriptsTimeout:80000,
     framework: 'custom',
     frameworkPath: require.resolve('protractor-cucumber-framework'),
     capabilities: {
@@ -40,7 +40,7 @@ exports.config = {
         tags:false,
         //format:'json:cucumber_report.json',
         format: 'json:.tmp/results.json',
-       // require: ['features/stepDefinitions/stepDefination.js']
+       // require: ['stepDefinitions/stepDefination.js']
         require: [prop.get('stepPath')]
     }
 };
