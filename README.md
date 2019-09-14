@@ -21,8 +21,8 @@ C:\Program Files\nodejs\node_modules\npm\bin    in path settings
 npm i npm@latest -g </br>
 
 Download all the packages where package.json file is there </br>
-npm install
-
+npm install</br>
+webstorm configuration
 ![webstorm configuration](https://user-images.githubusercontent.com/24494133/52033465-0ea54d80-254b-11e9-8c68-64e462adf8c1.PNG)
 
 promiseobject is data returned by asynchronous function. It can be a resolveif the function returned successfully or a rejectif function returned an error.
