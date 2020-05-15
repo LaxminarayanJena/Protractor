@@ -26,3 +26,15 @@ webstorm configuration
 ![webstorm configuration](https://user-images.githubusercontent.com/24494133/52033465-0ea54d80-254b-11e9-8c68-64e462adf8c1.PNG)
 
 promiseobject is data returned by asynchronous function. It can be a resolveif the function returned successfully or a rejectif function returned an error.
+```
+describe('angularjs homepage', function() {
+  it('should greet the named user', async function() {
+    await browser.get('http://www.angularjs.org');
+
+    await element(by.model('yourName')).sendKeys('Julie');
+
+    var greeting = element(by.binding('yourName'));
+
+    expect(await greeting.getText()).toEqual('Hello Julie!');
+  });
+ ```
