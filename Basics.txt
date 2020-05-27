@@ -25,6 +25,7 @@ convert project to tern project
 3.Protractor Basics
 ----------------------------------------
 directConnect: true, //
+https://github.com/LaxminarayanJena/Protractor/blob/master/Basics/FirstTest.js
 
 
 
