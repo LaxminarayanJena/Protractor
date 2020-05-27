@@ -10,5 +10,18 @@ webdriver-manager update
 webdriver-manager start
 http://localhost:4444/wd/hub/static/resource/hub.html
 
+conf.js
+https://github.com/LaxminarayanJena/Protractor/blob/master/Basics/conf.js
+
+specs.js
+https://github.com/LaxminarayanJena/Protractor/blob/master/Basics/spec.js
+
+to run
+protractor conf.js
+
+install tern plugin for eclipse
+
+3.Protractor Basics
+----------------------------------------
 
 
