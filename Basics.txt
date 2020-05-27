@@ -1,0 +1,14 @@
+2.basic installation
+---------------------------
+install java
+install nodejs
+configure environment variables for npm   -c/users/selenium/appdata/roaming/npm
+npm --version
+npm install -g protractor
+protractor --version
+webdriver-manager update
+webdriver-manager start
+http://localhost:4444/wd/hub/static/resource/hub.html
+
+
+
