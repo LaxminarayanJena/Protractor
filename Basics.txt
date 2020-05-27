@@ -20,8 +20,11 @@ to run
 protractor conf.js
 
 install tern plugin for eclipse
+convert project to tern project
 
 3.Protractor Basics
 ----------------------------------------
+directConnect: true, //
+
 
 
