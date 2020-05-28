@@ -1,5 +1,5 @@
 2.basic installation
----------------------------
+--------------------------------------------------------------------------------------
 install java
 install nodejs
 configure environment variables for npm   -c/users/selenium/appdata/roaming/npm
@@ -23,7 +23,7 @@ install tern plugin for eclipse
 convert project to tern project
 
 3.Protractor Basics
-----------------------------------------
+------------------------------------------------------------------------------------
 directConnect: true, //
 https://github.com/LaxminarayanJena/Protractor/blob/master/Basics/FirstTest.js
 
@@ -35,6 +35,47 @@ expect(browser.getTitle()).toContain("Protractor practice website - Banking App"
 expect(element(by.binding("user")).getText()).toEqual("Harry Potter");
 
 WebStorm 2020.1 supports angular 9
+in configuration -
+javascript file: c/users/selenium/appdata/roaming/npm/node_modules/protractor/lib/cli.js
+Application parametrs: conf.js path
+
+package.json  
+npm install
+
+5.JASMINE BASICS
+-------------------------------------------------------------------------------
+https://github.com/LaxminarayanJena/Protractor/blob/master/Basics/JasmineBasics.js
+
+BeforeEach,AfterEach
+https://github.com/LaxminarayanJena/Protractor/blob/master/Basics/Calculator
+
+ExpecttoBe and nottoBe
+https://github.com/LaxminarayanJena/Protractor/blob/master/Basics/TextExpect.js
+ expect(parseInt(text)).toBe(2);
+ expect(parseInt(text)).not.toBe(3);
+
+ExpecttoEqual and NotToeEqual
+https://github.com/LaxminarayanJena/Protractor/blob/master/Basics/TextMatchers.js
+expect(title).toEqual("Protractor practice website - Calculator")
+expect(title).not.toEqual("Protractor practice website - Calculator
+
+Running selected testcases
+specs: ['./regression/*.spec.js'],
+
+suites: {
+smoke:['./smoke/*.spec.js'],
+regression:['./regression/*.spec.js'],
+all:['./*/*.spec.js'],
+selected:['./functional/addcustomer.spec.js','./regression/openaccount,spec.js'],
+}
+
+in cmd -    protractor conf.js --suite=smoke,regression
+
+xit -ignore testcase
+
+6.Locators
+-------------------------------------------------------------------------------
+
 
 
 
