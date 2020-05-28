@@ -98,9 +98,35 @@ var SelectWrapper = require('./select-wrapper.js');
   mySelect.selectByValue("3");
 
 
-6.Utitlities
+6.Utilities
 -------------------------------------------------------------------------------
+Generating logs
+add "winston": "1.0.1" in package.json
+https://github.com/LaxminarayanJena/Protractor/blob/master/log.js
 
+https://github.com/LaxminarayanJena/Protractor/blob/master/Basics/LogExample.js
+var logger=require('./log');
+logger.log('info','Navigating to the website ')
+
+
+Allure Reports
+ install  jasmine allure reporter
+ onPrepare: function ()  in conf.js
+ follow below steps
+ https://github.com/LaxminarayanJena/Protractor/blob/master/Basics/conf.js
+ https://github.com/LaxminarayanJena/Protractor/blob/master/Basics/AllureValidateTitle.js
+ 
+Sending emails
+install nodemailer
+install protractor-jasmine2-screenshot-reporter
+https://github.com/LaxminarayanJena/Protractor/blob/master/Mail/mail.js
+
+add onComplete:function () in conf.js to create html report and send email
+
+npm install to install all packages
+
+6.Data Driven Testing
+-------------------------------------------------------------------------------
 
 
 
