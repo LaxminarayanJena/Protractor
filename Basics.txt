@@ -30,6 +30,11 @@ https://github.com/LaxminarayanJena/Protractor/blob/master/Basics/FirstTest.js
 Dropdown
 https://github.com/LaxminarayanJena/Protractor/blob/master/Basics/Banking.js
 
+expect-
+expect(browser.getTitle()).toContain("Protractor practice website - Banking App")
+expect(element(by.binding("user")).getText()).toEqual("Harry Potter");
+
+WebStorm 2020.1 supports angular 9
 
 
 
