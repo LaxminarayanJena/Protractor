@@ -75,6 +75,31 @@ xit -ignore testcase
 
 6.Locators
 -------------------------------------------------------------------------------
+model,buttonText,binding,className,repeater,by.addlocator
+https://github.com/LaxminarayanJena/Protractor/tree/master/Locator
+element(by.repeater("result in memory").row(0)).getText()
+element.all(by.repeater("result in memory").column("result.timestamp | date:'mediumTime")).getText()
+
+
+
+own locator using by.addlocator 
+https://github.com/LaxminarayanJena/Protractor/blob/master/Locator/customlocators.js
+element(by.ngClick('Auth.login()')).click();
+
+
+select wrapper (DROPDOWN)
+https://github.com/LaxminarayanJena/Protractor/blob/master/Locator/select-wrapper.js
+
+in specs
+https://github.com/LaxminarayanJena/Protractor/blob/master/Locator/TestSelect.js
+var SelectWrapper = require('./select-wrapper.js');
+
+ mySelect.selectByText("Harry Potter");
+  mySelect.selectByValue("3");
+
+
+6.Utitlities
+-------------------------------------------------------------------------------
 
 
 
