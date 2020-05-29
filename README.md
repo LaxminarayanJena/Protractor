@@ -26,6 +26,7 @@ webstorm configuration
 ![webstorm configuration](https://user-images.githubusercontent.com/24494133/52033465-0ea54d80-254b-11e9-8c68-64e462adf8c1.PNG)
 
 Javascript is asynchronous.Every javascript return promises.promises resembles state of your step.1)pending 2)resolved 3)rejected 90% actions-protractor will not move forward unless promise is resolved If you want to retrieve anything from browser then that particular functionality related methods have no support of promise resolving
+The promise fulfilled with its value will be returned.
 ```
 describe('angularjs homepage', function() {
   it('should greet the named user', async function() {
