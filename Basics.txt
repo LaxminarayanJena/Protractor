@@ -127,6 +127,12 @@ npm install to install all packages
 
 6.Data Driven Testing
 -------------------------------------------------------------------------------
+https://github.com/LaxminarayanJena/Protractor/tree/master/DataDrivenTesting
+
+Reading through json
+https://github.com/LaxminarayanJena/Protractor/blob/master/DataDrivenTesting/Objects.json
+https://github.com/LaxminarayanJena/Protractor/blob/master/DataDrivenTesting/ReadingThroughJson.js
+
 
 
 
