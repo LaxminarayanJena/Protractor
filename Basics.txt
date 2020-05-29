@@ -133,7 +133,20 @@ Reading through json
 https://github.com/LaxminarayanJena/Protractor/blob/master/DataDrivenTesting/Objects.json
 https://github.com/LaxminarayanJena/Protractor/blob/master/DataDrivenTesting/ReadingThroughJson.js
 
+data paremetrisation
+jasmine data provider
+https://github.com/LaxminarayanJena/Protractor/blob/master/DataDrivenTesting/GmailTest.js
 
+
+excel parameterisation
+npm i exceljs
+https://github.com/LaxminarayanJena/Protractor/blob/master/DataDrivenTesting/ExcelTest.js
+
+
+6.End To End Testing
+-------------------------------------------------------------------------------
+
+https://github.com/LaxminarayanJena/Protractor/tree/master/E2ETesting
 
 
 
