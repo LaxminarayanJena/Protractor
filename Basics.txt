@@ -157,3 +157,13 @@ alertDialog.accept();
 https://github.com/LaxminarayanJena/ProtractorWithPageObjectModel
 npm install after copying package.json
 
+7.Non Angular
+-------------------------------------------------------------------------------
+https://github.com/LaxminarayanJena/Protractor/tree/master/NonAngular
+in conf.js
+ onPrepare: function () {
+		browser.ignoreSynchronization=true;
+		browser.driver.manage().timeouts().implicitlyWait(60000);
+  
+  
+	}
