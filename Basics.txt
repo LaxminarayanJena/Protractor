@@ -167,3 +167,10 @@ in conf.js
   
   
 	}
+
+handling windows----
+browser.getAllWindowHandles().then(function(handles){
+browser.switchTo().window(handles[2]).then(function(){
+element(by.id("eForm_form_applicantPlaceHolder_residenceCity_value")).sendKeys("Noida");
+ browser.sleep(5000);
+ })
