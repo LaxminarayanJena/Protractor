@@ -78,6 +78,7 @@ xit -ignore testcase
 model,buttonText,binding,className,repeater,by.addlocator
 https://github.com/LaxminarayanJena/Protractor/tree/master/Locator
 element(by.repeater("result in memory").row(0)).getText()
+element(by.repeater("cust in Customers").row(0).column("cust.fName"));
 element.all(by.repeater("result in memory").column("result.timestamp | date:'mediumTime")).getText()
 
 
@@ -147,6 +148,8 @@ https://github.com/LaxminarayanJena/Protractor/blob/master/DataDrivenTesting/Exc
 -------------------------------------------------------------------------------
 
 https://github.com/LaxminarayanJena/Protractor/tree/master/E2ETesting
+var alertDialog=browser.switchTo().alert();
+alertDialog.accept();
 
 
 
