@@ -152,4 +152,8 @@ var alertDialog=browser.switchTo().alert();
 alertDialog.accept();
 
 
+6.Page Object Model
+-------------------------------------------------------------------------------
+https://github.com/LaxminarayanJena/ProtractorWithPageObjectModel
+npm install after copying package.json
 
