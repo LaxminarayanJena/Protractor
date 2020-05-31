@@ -202,3 +202,8 @@ npm install -g protractor
 https://github.com/LaxminarayanJena/Protractor/tree/master/CucumberProtractor-Chrome
  without report - protractor protractor.conf.js
 with report - npm run protractorcuke
+
+
+
+9.Chai and Chai as Promised
+-------------------------------------------------------------------------------
