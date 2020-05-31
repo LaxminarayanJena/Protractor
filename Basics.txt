@@ -188,6 +188,9 @@ Reporting
 npm install cucumber-html-reporter --save-dev
 or
 npm install to downlaod all dependencies from your package
-.\node_modules\.bin\cucumber-js --format=json:cucumber_report.json
-add index.js file
-node index.js
+
+"   .\node_modules\.bin\cucumber-js --format=json:cucumber_report.json
+     add index.js file
+     node index.js "
+     or 
+ npm run cuke   --1 line coommand to generarte report but add in conf.js "cuke": "cucumber-js --format=json:cucumber_report.json && node index.js"
