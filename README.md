@@ -27,6 +27,8 @@ webstorm configuration
 
 Javascript is asynchronous.Every javascript return promises.promises resembles state of your step.1)pending 2)resolved 3)rejected 90% actions-protractor will not move forward unless promise is resolved If you want to retrieve anything from browser then that particular functionality related methods have no support of promise resolving
 The promise fulfilled with its value will be returned.
+
+The main difference between callbacks and promises is that with callbacks you tell the executing function what to do when the asynchronous task completes, whereas with promises the executing function returns a special object to you (the promise) and then you tell the promise what to do when the asynchronous task 
 ```
 describe('angularjs homepage', function() {
   it('should greet the named user', async function() {
