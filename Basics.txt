@@ -182,4 +182,12 @@ TAGS
 .\node_modules\.bin\cucumber-js --tags '@prod'   
 .\node_modules\.bin\cucumber-js --tags 'not @prod'
 Hooks
+https://github.com/LaxminarayanJena/Protractor/tree/master/CucumberJsBasics
 
+Reporting
+npm install cucumber-html-reporter --save-dev
+or
+npm install to downlaod all dependencies from your package
+.\node_modules\.bin\cucumber-js --format=json:cucumber_report.json
+add index.js file
+node index.js
