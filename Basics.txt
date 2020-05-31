@@ -199,3 +199,5 @@ npm install to downlaod all dependencies from your package
 9.Cucumber with Protractor Integration
 -------------------------------------------------------------------------------
 npm install -g protractor
+ without report - protractor protractor.conf.js
+with report - npm run protractorcuke
