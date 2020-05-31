@@ -100,7 +100,7 @@ var SelectWrapper = require('./select-wrapper.js');
   mySelect.selectByValue("3");
 
 
-6.Utilities
+7.Utilities
 -------------------------------------------------------------------------------
 Generating logs
 add "winston": "1.0.1" in package.json
@@ -127,7 +127,7 @@ add onComplete:function () in conf.js to create html report and send email
 
 npm install to install all packages
 
-6.Data Driven Testing
+8.Data Driven Testing
 -------------------------------------------------------------------------------
 https://github.com/LaxminarayanJena/Protractor/tree/master/DataDrivenTesting
 
@@ -145,7 +145,7 @@ npm i exceljs
 https://github.com/LaxminarayanJena/Protractor/blob/master/DataDrivenTesting/ExcelTest.js
 
 
-6.End To End Testing
+9.End To End Testing
 -------------------------------------------------------------------------------
 
 https://github.com/LaxminarayanJena/Protractor/tree/master/E2ETesting
@@ -153,12 +153,12 @@ var alertDialog=browser.switchTo().alert();
 alertDialog.accept();
 
 
-6.Page Object Model
+10.Page Object Model
 -------------------------------------------------------------------------------
 https://github.com/LaxminarayanJena/ProtractorWithPageObjectModel
 npm install after copying package.json
 
-7.Non Angular
+11.Non Angular
 -------------------------------------------------------------------------------
 https://github.com/LaxminarayanJena/Protractor/tree/master/NonAngular
 in conf.js
@@ -175,7 +175,7 @@ browser.switchTo().window(handles[2]).then(function(){
 element(by.id("eForm_form_applicantPlaceHolder_residenceCity_value")).sendKeys("Noida");
  browser.sleep(5000);
  })
-8.Cucumber Basics
+12.Cucumber Basics
 -------------------------------------------------------------------------------
 Cucumber (Gherkin) Full Support in visual studio
 .\node_modules\.bin\cucumber-js features
@@ -196,7 +196,7 @@ npm install to downlaod all dependencies from your package
      or 
  npm run cuke   --1 line coommand to generarte report but add in conf.js "cuke": "cucumber-js --format=json:cucumber_report.json && node index.js"
 
-9.Cucumber with Protractor Integration
+13.Cucumber with Protractor Integration
 -------------------------------------------------------------------------------
 npm install -g protractor
 https://github.com/LaxminarayanJena/Protractor/tree/master/CucumberProtractor-Chrome
@@ -205,6 +205,40 @@ with report - npm run protractorcuke
 
 
 
-9.Chai and Chai as Promised
+14.Chai and Chai as Promised
 -------------------------------------------------------------------------------
 https://github.com/LaxminarayanJena/Protractor/tree/master/CucumberChai/features
+
+var chai =require('chai');
+var chaiAsPromised=require('chai-as-promised');
+chai.use(chaiAsPromised);
+var expect=chai.expect;
+
+When('I found the title as {string}', function (title) {
+    var actualTitle= browser.getTitle();
+    return expect(actualTitle).to.eventually.equal(title);
+});
+
+https://www.chaijs.com/api/bdd/
+
+attach screenshot in case of failure
+https://github.com/LaxminarayanJena/Protractor/blob/master/CucumberChai/features/stepDefinations/stepDefination.js
+
+property reader
+npm install properties-reader
+var prop = PropertiesReader('./properties/prop.properties');
+prop.get('pageTimeOut');
+pageTimeOut=60000
+
+adding callback to handle aysnc 
+Given('I go to {string}', function (site,callback) {
+    //return browser.get(site)
+    browser.get(site).then(callback);
+
+});
+
+
+15.cucumber with POM
+-------------------------------------------------------------------------------
+
+
