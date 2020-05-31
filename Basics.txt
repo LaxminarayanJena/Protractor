@@ -174,3 +174,12 @@ browser.switchTo().window(handles[2]).then(function(){
 element(by.id("eForm_form_applicantPlaceHolder_residenceCity_value")).sendKeys("Noida");
  browser.sleep(5000);
  })
+8.Cucumber
+-------------------------------------------------------------------------------
+Cucumber (Gherkin) Full Support in visual studio
+.\node_modules\.bin\cucumber-js features
+TAGS
+.\node_modules\.bin\cucumber-js --tags '@prod'   
+.\node_modules\.bin\cucumber-js --tags 'not @prod'
+Hooks
+
