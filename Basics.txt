@@ -1,3 +1,4 @@
+Protractor latest verion -7.0.0 (31 may 2020)
 2.basic installation
 --------------------------------------------------------------------------------------
 install java
@@ -174,7 +175,7 @@ browser.switchTo().window(handles[2]).then(function(){
 element(by.id("eForm_form_applicantPlaceHolder_residenceCity_value")).sendKeys("Noida");
  browser.sleep(5000);
  })
-8.Cucumber
+8.Cucumber Basics
 -------------------------------------------------------------------------------
 Cucumber (Gherkin) Full Support in visual studio
 .\node_modules\.bin\cucumber-js features
@@ -194,3 +195,7 @@ npm install to downlaod all dependencies from your package
      node index.js "
      or 
  npm run cuke   --1 line coommand to generarte report but add in conf.js "cuke": "cucumber-js --format=json:cucumber_report.json && node index.js"
+
+9.Cucumber with Protractor Integration
+-------------------------------------------------------------------------------
+npm install -g protractor
