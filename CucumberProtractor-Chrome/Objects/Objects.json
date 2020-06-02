@@ -1,0 +1,17 @@
+{
+  "testsiteurl":"http://www.way2automation.com/angularjs-protractor/webtables/",
+  "locators":{
+    "webtablepage":{
+      "firstname":"input[name='FirstName']",
+      "novak":"//td[contains(text(),'novak')]//following::td[8]//button",
+      "adduser":"button.btn.btn-link.pull-right"
+    }
+  },
+  "userdetails":{
+    "firstname":"laxminarayan",
+    "lastname":"jena",
+    "username":"laxminarayanjena",
+    "phone":"8989789878",
+    "password":"passw"
+  }
+}

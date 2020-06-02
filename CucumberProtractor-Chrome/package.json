@@ -13,7 +13,8 @@
   "dependencies": {
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
-    "cucumber": "^6.0.5"
+    "cucumber": "^6.0.5",
+    "properties-reader": "2.0.0"
   },
   "devDependencies": {
     "cucumber-html-reporter": "^5.2.0",

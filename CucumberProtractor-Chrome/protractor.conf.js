@@ -14,7 +14,7 @@ exports.config = {
     cucumberOpts: {
         tags:false,
         format:'json:cucumber_report.json',
-        require: ['features/stepDefinitions/stepDefination.js']
+        require: ['stepDefinations/stepDefination.js']
     }
 };
 
