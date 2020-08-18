@@ -1,7 +1,11 @@
 # Protractor
 Protractor End to End testing framework for AngularJS Apps
 ![capture](https://user-images.githubusercontent.com/24494133/42014358-8fe1d846-7abf-11e8-9dab-b225666e26d7.PNG)
-
+Angular 8 was released on May 28, 2019
+Angular 9 was released on February 6, 2020. Version 9 moves all applications to use the Ivy compiler and runtime 
+protractor 7.0
+javascript is synchronous- ajax(),settimeout() shows aysnchronous nature
+asynchronous- multiple work at a time
 
 
 npm --version <br>
@@ -25,7 +29,7 @@ npm install</br>
 webstorm configuration
 ![webstorm configuration](https://user-images.githubusercontent.com/24494133/52033465-0ea54d80-254b-11e9-8c68-64e462adf8c1.PNG)
 
-Javascript is asynchronous.Every javascript return promises.promises resembles state of your step.1)pending 2)resolved 3)rejected 90% actions-protractor will not move forward unless promise is resolved If you want to retrieve anything from browser then that particular functionality related methods have no support of promise resolving
+Every javascript return promises.promises resembles state of your step.1)pending 2)resolved 3)rejected 90% actions-protractor will not move forward unless promise is resolved If you want to retrieve anything from browser then that particular functionality related methods have no support of promise resolving
 The promise fulfilled with its value will be returned.
 
 The main difference between callbacks and promises is that with callbacks you tell the executing function what to do when the asynchronous task completes, whereas with promises the executing function returns a special object to you (the promise) and then you tell the promise what to do when the asynchronous task 
