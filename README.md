@@ -1,11 +1,11 @@
 # Protractor
 Protractor End to End testing framework for AngularJS Apps
-![capture](https://user-images.githubusercontent.com/24494133/42014358-8fe1d846-7abf-11e8-9dab-b225666e26d7.PNG)
-Angular 8 was released on May 28, 2019
-Angular 9 was released on February 6, 2020. Version 9 moves all applications to use the Ivy compiler and runtime 
-protractor 7.0
-javascript is synchronous- ajax(),settimeout() shows aysnchronous nature
-asynchronous- multiple work at a time
+![capture](https://user-images.githubusercontent.com/24494133/42014358-8fe1d846-7abf-11e8-9dab-b225666e26d7.PNG) </br>
+Angular 8 was released on May 28, 2019</br>
+Angular 9 was released on February 6, 2020. Version 9 moves all applications to use the Ivy compiler and runtime </br>
+protractor 7.0 </br>
+javascript is synchronous- ajax(),settimeout() shows aysnchronous nature </br>
+asynchronous- multiple work at a time </br>
 
 
 npm --version <br>
@@ -34,9 +34,11 @@ The promise fulfilled with its value will be returned.
 
 The main difference between callbacks and promises is that with callbacks you tell the executing function what to do when the asynchronous task completes, whereas with promises the executing function returns a special object to you (the promise) and then you tell the promise what to do when the asynchronous task 
 in call back we pass functions as parameters to other functions and call them inside the outer functions  </br>
-function print(callback) {  </br>
+```
+function print(callback) { 
     callback();
 }
+```
 ```
 describe('angularjs homepage', function() {
   it('should greet the named user', async function() {
