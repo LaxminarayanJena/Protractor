@@ -56,3 +56,42 @@ If you declare a variable using the “var” keyword, it will be in the global 
 
 #### Locators:</br>
 WaitForAngular ,By.Binding, By.repeater,By.textarea,By.model,WebElelement.all,WebElement.evaluate
+
+```
+Find all links
+browser.get("https://google.com")
+element.all(by.tagname("a")).count().then(function(allLinks){
+	console.log("Number of links in page  : " +allLinks);
+})
+
+is selected
+browser.get("https://google.com")
+element(by.xpath("//input[@id='selected'] [value='Bangalore']")).isSelected().then(function(selectedFlag){
+	console.log("Is element selected : "+selectedFlag);
+})
+
+move to element
+browser.actions.moveToElement(menuElement).moveToElement(element(by.xpath("xpath-of-menu-item-element"))).click().perform()
+
+xit("test description)
+
+element(by.xpath("xpath of box")).getAttribute ("value")).then(function(textValue){
+	console.log(textValue)
+})
+
+element(by.id("some")).getAttribute("title").then(function(tooltip){
+	console.log(tooltip)
+}
+
+
+browser.actions().dragAndDrop(
+	element(by.id("drag1")),
+	element(by.id("div2"))
+).perform();
+
+let EC = ExpectedConditions;
+let condition = EC.visibilityOf(element(by.id("hidden")))
+browser.wait(condition, 30000)
+
+
+```
