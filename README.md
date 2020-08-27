@@ -6,8 +6,9 @@ Angular 9 was released on February 6, 2020. Version 9 moves all applications to 
 protractor 7.0 </br>
 javascript is synchronous- ajax(),settimeout() shows aysnchronous nature </br>
 asynchronous- multiple work at a time </br>
+https://github.com/LaxminarayanJena/NIIT
 
-
+npm init -creates package.json
 npm --version <br>
 npm install -g protractor <br>
 protractor --version <br>
