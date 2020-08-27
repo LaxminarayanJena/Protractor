@@ -98,3 +98,57 @@ browser.wait(condition, 30000)
 
 
 ```
+```
+cucumber-html-reporter
+
+1)In package.json -------
+
+"devDependencies": {
+    "cucumber-html-reporter": "^5.2.0",
+    "protractor-cucumber-framework": "^6.2.1"
+  }
+
+
+
+ "scripts": {
+    "test": "protractor config.js && node report-config.js",
+    "protractor": "./node_modules/protractor/built/cli.js",
+    "setup": "npm install && webdriver-manager update"
+  },
+
+
+
+
+2)In report-config.js--------
+
+var reporter = require('cucumber-html-reporter');
+
+var options = {
+    theme: 'bootstrap',
+    jsonFile: './reports/cucumber_report.json',
+    output: './reports/cucumber_report.html',
+    reportSuiteAsScenarios: true,
+    launchReport: true,
+    metadata: {
+        "App Version":"0.3.2",
+        "Test Environment": "Prod Env",
+        "Browser": "Chrome  54.0.2840.98",
+        "Platform": "Windows 7",
+        "Parallel": "Scenarios",
+        "Executed": "Remote"
+    }
+};
+
+3)In config.js
+cucumberOpts: {
+        tags: false,
+        format: 'json:./reports/cucumber_report.json',
+        require: ['./src/step_defination/*.js', './src/util/*.js']
+    }
+};
+
+reporter.generate(options);
+
+4)npm test  
+reports will be created under ./reports folder
+```
