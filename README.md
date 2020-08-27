@@ -98,6 +98,7 @@ browser.wait(condition, 30000)
 
 
 ```
+# Reporting
 ```
 cucumber-html-reporter
 
