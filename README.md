@@ -4,16 +4,18 @@ Protractor End to End testing framework for AngularJS Apps
 Angular 8 was released on May 28, 2019</br>
 Angular 9 was released on February 6, 2020. Version 9 moves all applications to use the Ivy compiler and runtime </br>
 protractor 7.0 </br>
+Node-14.9.0 </br>
 javascript is synchronous- ajax(),settimeout() shows aysnchronous nature </br>
 asynchronous- multiple work at a time </br>
 https://github.com/LaxminarayanJena/NIIT
 
-npm init -creates package.json
+
 npm --version <br>
 npm install -g protractor <br>
 protractor --version <br>
 webdriver-manager update <br>
 webdriver-manager start <br>
+npm init -creates package.json </br>
 http://localhost:4444/wd/hub/static/resource/hub.html <br>
 
 ---------------------------
