@@ -7,7 +7,7 @@ protractor 7.0 </br>
 Node-14.9.0 </br>
 javascript is synchronous- ajax(),settimeout() shows aysnchronous nature </br>
 asynchronous- multiple work at a time </br>
-https://github.com/LaxminarayanJena/NIIT
+https://github.com/LaxminarayanJena/ProtractorFramework-Cucumber-POM-
 
 
 npm --version <br>
