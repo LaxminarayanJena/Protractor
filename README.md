@@ -96,7 +96,12 @@ let EC = ExpectedConditions;
 let condition = EC.visibilityOf(element(by.id("hidden")))
 browser.wait(condition, 30000)
 
+browser.wait(ExpectedConditions.alertIsPresent(), 30000)
 
+
+browser.getCurrentUrl().then(function(url){
+	console.log("Web page url is : " +url )
+})
 ```
 # Reporting
 ```
