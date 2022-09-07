@@ -1,7 +1,7 @@
 # Protractor
 Protractor End to End testing framework for AngularJS Apps
 ![capture](https://user-images.githubusercontent.com/24494133/42014358-8fe1d846-7abf-11e8-9dab-b225666e26d7.PNG) </br>
-Angular 8 was released on May 28, 2019</br>
+Angular 14.1  was released on 20 july 22 </br>
 Angular 9 was released on February 6, 2020. Version 9 moves all applications to use the Ivy compiler and runtime </br>
 protractor 7.0 </br>
 Node-14.9.0 </br>
@@ -54,6 +54,17 @@ describe('angularjs homepage', function() {
     expect(await greeting.getText()).toEqual('Hello Julie!');
   });
  ```
+ 
+ 
+ # Javascript
+ 
+ ```
+var string = "Some string";
+for (var i = 0; i < string.length; i++) {
+  console.log(string.charCodeAt(i));
+}
+ ```
+ 
 #### Let vs Var vs Const:</br>
 If you declare a variable using the “var” keyword, it will be in the global scope(accessible to the whole program) if declared outside all functions. It will have a local scope(accessible within the function only) if defined inside a function. If you declare a variable using the “let” keyword, it will be blocked scope, i.e., any variable declared using let, will be accessible with the surrounding curly brackets ({ }) only. If you declare a variable using the “const” keyword, you will not be able to change its value later on. As per scope, it will be the same as variables declared using the “let” keyword.
 
