@@ -57,7 +57,14 @@ describe('angularjs homepage', function() {
  
  
  # Javascript
- 
+String	represents textual data	'hello', "hello world!" etc </br>
+Number-	an integer or a floating-point number	3, 3.234, 3e-2 etc. </br>
+BigInt	an integer with arbitrary precision	900719925124740999n , 1n etc.</br>
+Boolean	-true and false </br>
+undefined-a data type whose variable is not initialized	let a; </br>
+null-	denotes a null value	let a = null; </br>
+Symbol-	data type whose instances are unique and immutable	let value = Symbol('hello'); </br>
+Object	-key-value pairs of collection of data	let student = { }; </br>
  ```
 var string = "Some string";
 for (var i = 0; i < string.length; i++) {
