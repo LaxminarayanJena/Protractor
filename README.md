@@ -37,6 +37,29 @@ The promise fulfilled with its value will be returned.
 
 The main difference between callbacks and promises is that with callbacks you tell the executing function what to do when the asynchronous task completes, whereas with promises the executing function returns a special object to you (the promise) and then you tell the promise what to do when the asynchronous task 
 in call back we pass functions as parameters to other functions and call them inside the outer functions  </br>
+
+
+```
+javascript is synchronous- ajax(),settimeout() shows aysnchronous nature
+asynchronous- multiple work at a time
+
+async function printSum(a, b) {
+  // Calculate the sum
+  const sum = a + b;
+
+  // Simulate an asynchronous operation (like a delay)
+  await new Promise(resolve => setTimeout(resolve, 1000));
+
+  // Print the result
+  console.log(`The sum of ${a} and ${b} is ${sum}`);
+}
+
+// Call the function
+printSum(5, 10);
+```
+
+
+
 ```
 function print(callback) { 
     callback();
