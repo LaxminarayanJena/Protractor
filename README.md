@@ -39,8 +39,10 @@ The main difference between callbacks and promises is that with callbacks you te
 in call back we pass functions as parameters to other functions and call them inside the outer functions  </br>
 
 ```
-javascript is synchronous- ajax(),settimeout() shows aysnchronous nature </br>
-asynchronous- multiple work at a time </br>
+javascript is synchronous- ajax(),settimeout() shows aysnchronous nature .
+java is synchronous-but Java supports multithreading,
+In synchronous programming, tasks are executed one after the other. Each task must complete before the next one begins.
+asynchronous- multiple work at a time .
 async function printSum(a, b) {
   // Calculate the sum
   const sum = a + b;
