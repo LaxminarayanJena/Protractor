@@ -198,3 +198,28 @@ reporter.generate(options);
 4)npm test  
 reports will be created under ./reports folder
 ```
+# Playwright
+```
+const { test, expect } = require('@playwright/test');
+
+test('Click button inside iframe and validate the text', async ({ page }) => {
+  // Navigate to the page with the iframe
+  await page.goto('https://www.leafground.com/frame.xhtml');
+
+  // Get the iframe by selector
+  const iframe = await page.frame({ url: /frame.xhtml/ }); // Adjust the URL if necessary
+
+  // Find the button inside the iframe
+  const button = await iframe.locator('#Click');
+
+  // Click the button
+  await button.click();
+
+  // Get the text of the button after clicking
+  const buttonText = await button.textContent();
+
+  // Validate the button text
+  expect(buttonText).toBe('Hurray! You Clicked Me.');
+});
+
+```
