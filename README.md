@@ -223,3 +223,10 @@ test('Click button inside iframe and validate the text', async ({ page }) => {
 });
 
 ```
+Running the Test:
+Install Playwright if you haven't already:
+
+To run  </br>
+npm install @playwright/test </br>
+
+npx playwright test iframe.test.js </br>
