@@ -38,7 +38,10 @@ The promise fulfilled with its value will be returned.
 The main difference between callbacks and promises is that with callbacks you tell the executing function what to do when the asynchronous task completes, whereas with promises the executing function returns a special object to you (the promise) and then you tell the promise what to do when the asynchronous task 
 in call back we pass functions as parameters to other functions and call them inside the outer functions  </br>
 
+A callback in JavaScript is simply a function you pass to another function so it can run later. </br>
+
 ```
+
 javascript is synchronous- ajax(),settimeout() shows aysnchronous nature .
 java is synchronous-but Java supports multithreading,
 In synchronous programming, tasks are executed one after the other. Each task must complete before the next one begins.
@@ -60,10 +63,25 @@ printSum(5, 10);
 ```
 
 ```
-function print(callback) { 
-    callback();
-}
+=== (strict equality) compares value and type. 5 === "5"   // false (number vs string)
+== (loose equality) compares values after converting the types. 5 == "5"   // true
 ```
+
+
+```
+function greet(name, callback) {
+  console.log("Hello " + name);
+  callback();
+}
+
+function sayBye() {
+  console.log("Goodbye!");
+}
+
+greet("Poltu", sayBye);
+
+```
+
 ```
 describe('angularjs homepage', function() {
   it('should greet the named user', async function() {
