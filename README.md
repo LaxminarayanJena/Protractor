@@ -5,6 +5,7 @@ Angular 14.1  was released on 20 july 22 </br>
 Angular 9 was released on February 6, 2020. Version 9 moves all applications to use the Ivy compiler and runtime </br>
 protractor 7.0 </br>
 Node-14.9.0 </br>
+Node (Node.js) is a runtime environment that lets you run JavaScript outside the browser, mainly on a server.</br>
 javascript is synchronous- ajax(),settimeout() shows aysnchronous nature </br>
 asynchronous- multiple work at a time </br>
 https://github.com/LaxminarayanJena/ProtractorFramework-Cucumber-POM-
